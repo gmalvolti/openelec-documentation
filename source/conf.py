@@ -13,6 +13,9 @@
 
 import sys, os
 
+# ReadTheDocs Flag
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -41,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'openElec'
-copyright = u'2013, openMairie'
+copyright = u'2004-2013, openMairie'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -92,7 +95,10 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #html_theme = 'sphinxdoc'
-html_theme = 'sphinx.openmairietheme'
+if on_rtd:
+    html_theme = 'default'
+else:
+    html_theme = 'sphinx.openmairietheme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -181,7 +187,7 @@ latex_paper_size = 'a4'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'openelec.tex', u'openelec Documentation',
+  ('index', 'openelec.tex', u'openElec Documentation',
    u'openMairie', 'manual'),
 ]
 
@@ -216,6 +222,6 @@ latex_elements['preamble'] = '\\setcounter{secnumdepth}{5}\\setcounter{tocdepth}
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'opencimetiere', u'opencimetiere Documentation',
+    ('index', 'openelec', u'openElec Documentation',
      [u'openMairie'], 1)
 ]
