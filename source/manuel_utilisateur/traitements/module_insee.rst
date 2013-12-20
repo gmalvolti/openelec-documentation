@@ -2,34 +2,83 @@
 Module INSEE
 ############
 
-Inscription d'office INSEE
-==========================
+Ce module permet de gérer les échanges dématérialisés de données électorales
+entre les communes et l'INSEE.
 
-Import du fichier provenant de l'INSEE
---------------------------------------
+Les communes transmettent à l'INSEE les informations sur les personnes 
+inscrites ou radiées de leurs listes électorales.
 
-Vous allez recevoir de l'INSEE un CD-ROM avec un fichier d'électeurs
-d'inscrits d'office. Ce fichier sera au format TXT ou XML.
-Le module INSEE vous permet d'importer les données de ce fichier dans votre base
-openElec.
+L'INSEE transmet aux communes :
 
-Premièrement rendez-vous dans la rubrique " Traitement / Insee "
-onglet " Import IO ".
+* les demandes de radiations, notamment en cas d'inscription dans une autre 
+  commune,
+* la liste nominative des personnes atteignant l'âge de 18 ans, susceptibles de
+  bénéficier de l'inscription d'office sur les listes électorales,
+* la liste des électeurs Français établis hors de France souhaitant voter hors 
+  de France pour les élections,
+* des informations relatives à la perte des droits civiques.
+
+L'INSEE prévient les communes lorsqu'un nouveau fichier est disponible et 
+les communes sont alors en charge d'aller le récupérer puis de l'importer dans 
+l'application openElec. De leur côté les communes, après chaque commission 
+administrative, récupèrent un fichier dans l'application openElec afin de le 
+transmettre à l'INSEE.
+
+
+.. contents::
+
+
+Inscriptions d'office INSEE
+===========================
+
+Ce sont des personnes atteignant l'âge de 18 ans, susceptibles de bénéficier de
+l'inscription d'office sur les listes électorales.
+
+
+Retirer le fichier auprès de l'INSEE
+------------------------------------
+
+L'INSEE permet de retirer ces fichiers via son application Aireppnet. L'INSEE 
+fournit des documentations concernant l'utilisation de cette application. 
+
+Vous trouverez les informations concernant le retrait de fichiers dans le 
+paragraphe 6 de la page 13 à la page 16 du fichier PDF suivant mis à disposition
+par l'INSEE.
+=> http://www.insee.fr/fr/publics/collectivites/GUIDEaireppnetV3-2.pdf 
+
+Une fois l'archive téléchargée sur votre poste de travail, vous trouverez des
+instructions pour extraire de cette archive le fichier à importer dans 
+l'application openElec dans le fichier PDF suivant mis à disposition par l'INSEE.
+=> http://www.insee.fr/fr/publics/collectivites/dezipper.pdf
+
+L'INSEE peut également transmettre ces fichiers via un CD-ROM.
+
+
+Importer le fichier provenant de l'INSEE
+----------------------------------------
+
+Un fichier au format TXT ou XML est nécessaire pour réaliser cette opération.
+
+Cette fonction est accessible via le menu 
+(:menuselection:`Traitement --> Insee`) dans l'onglet 
+(:menuselection:`Import IO`).
 
 .. figure:: module_insee_import_io.png
 
-    Ecran du module : INSEE - Import OI
+    Ecran du module : INSEE - Import IO
 
 A l'aide du champ " Fichier reçu de l'INSEE à importer " sélectionnez
 un fichier à importer. Validez en cliquant sur " Import des inscriptions
 d'office INSEE ".
 
-Création des mouvements d'inscription
--------------------------------------
 
-Vous pouvez maintenant retrouver la liste des nouveaux inscrits d'office
-dans la rubrique " Consultation / Inscription Office INSEE ". Il faut
-à présent valider chaque inscrit manuellement pour créer les mouvements
+Valider les propositions d'inscriptions d'office
+------------------------------------------------
+
+Cette fonction est accessible via le menu 
+(:menuselection:`Consultation --> Inscription Office INSEE`).
+
+Il faut à présent valider chaque inscrit manuellement pour créer les mouvements
 d'inscription correspondant.
 
 Pour cela, cliquez sur le bouton précédant chaque nom, vous accéderez alors
@@ -40,37 +89,122 @@ de champs " Adresse " de la fiche. Enfin indiquez le type de mouvement.
 Une fois ces informations saisies, vous n'avez plus qu'à valider
 ce mouvement en cliquant sur le bouton " Ajouter ".
 
-Import Radiations INSEE
-==========================
 
-Import du fichier provenant de l'INSEE
---------------------------------------
+Épurer les anciennes propositions d'inscriptions office INSEE
+-------------------------------------------------------------
 
-Vous allez recevoir de l'INSEE un CD-ROM avec un fichier d'électeurs
-a radier. Ce fichier sera au format TXT ou XML.
-Le module INSEE vous permet d'importer les données de ce fichier dans
-votre base openElec.
+Vérifier que les anciennes propositions d'inscriptions office ont toutes été 
+vérifiées avant de toutes les supprimer. Aucun retour en arrière n'est possible
+sur cette fonction.
 
-Premièrement rendez-vous dans la rubrique " Traitement / Insee "
-onglet " Import Import Radiation ".
+Cette fonction est accessible via le menu 
+(:menuselection:`Traitement --> Insee`) dans l'onglet 
+(:menuselection:`Épuration`).
+
+
+Radiations INSEE
+================
+
+Ce sont des demandes de radiations faites par l'INSEE qui interviennent 
+notamment en cas d'inscription dans une autre commune. 
+
+L'import de ces demandes de radiations INSEE dans l'application openElec est à 
+appréhender comme une aide à la saisie : il permet de charger l'intégralité du 
+fichier des demandes de radiations venant de l'INSEE dans un listing. 
+
+Ensuite la validation des demandes de radiations de ce listing une à une permet
+de créer le mouvement de radiation sur l'électeur en question sans avoir à le 
+rechercher, en sélectionnant le motif de radiation de manière automatique et en 
+vérifiant qu'un mouvement de radiation n'existe pas déjà sur cet électeur. Cette
+recherche se fait sur les critères : nom patronymique et date de naissance.
+Lorsque la demande de radiation INSEE donne lieu à la création d'un mouvement
+de radiation, elle est notée comme "traitée" (grisée dans le listing pour ne
+plus être revalidée). Lorsqu'elle ne donne pas lieu à la création d'un
+mouvement de radiation car le mouvement existe déjà ou qu'aucun électeur n'est
+trouvé, alors cette demande de radiation reste dans l'état "non traitée"
+jusqu'à la réception d'un prochain fichier d'import de l'INSEE qui sera précédé
+d'une épuration des anciennes demandes de radiations.
+
+
+Retirer le fichier auprès de l'INSEE
+------------------------------------
+
+L'INSEE permet de retirer ces fichiers via son application Aireppnet. L'INSEE 
+fournit des documentations concernant l'utilisation de cette application. 
+
+Vous trouverez les informations concernant le retrait de fichiers dans le 
+paragraphe 6 de la page 13 à la page 16 du fichier PDF suivant mis à disposition
+par l'INSEE.
+=> http://www.insee.fr/fr/publics/collectivites/GUIDEaireppnetV3-2.pdf 
+
+Une fois l'archive téléchargée sur votre poste de travail, vous trouverez des
+instructions pour extraire de cette archive le fichier à importer dans 
+l'application openElec dans le fichier PDF suivant mis à disposition par l'INSEE.
+=> http://www.insee.fr/fr/publics/collectivites/dezipper.pdf
+
+L'INSEE peut également transmettre ces fichiers via un CD-ROM.
+
+
+Importer le fichier provenant de l'INSEE
+----------------------------------------
+
+Un fichier au format TXT ou XML est nécessaire pour réaliser cette opération.
+
+Cette fonction est accessible via le menu 
+(:menuselection:`Traitement --> Insee`) dans l'onglet 
+(:menuselection:`Import Radiation`).
 
 .. figure:: module_insee_import_radiation.png
 
-    Ecran du module : INSEE - Import OI
+    Ecran du module : INSEE - Import Radiation
 
 A l'aide du champ " Fichier recu de l'INSEE a importer " sélectionnez
 un fichier à importer. Validez en cliquant sur " Import des radiations INSEE ".
 
-Création des mouvements de radiation
--------------------------------------
 
-Vous pouvez maintenant retrouver la liste des électeurs à radier
-dans la rubrique " Consultation / Radiations ". Il faut
-à présent valider chaque radiation manuellement pour créer les mouvements
+Valider les demandes de radiations
+----------------------------------
+
+Cette fonction est accessible via le menu 
+(:menuselection:`Consultation --> Radiation INSEE`).
+
+Cet écran présente le listing de toutes les demandes de radiations. Les 
+informations présentes dans ce listing sont celles issues directement du 
+fichier importé.
+
+.. figure:: module_insee_validation_radiation_listing.png
+
+    Ecran : Consultation --> Radiation INSEE
+
+Les demandes de radiations sont soit grisées sans actions disponibles,
+soit non grisées avec des actions disponibles.
+
+Pour valider une demande de radiation il suffit de cliquer sur l'action de
+validation présente en début de ligne. C'est ici que les critères de correspondance
+entrent en jeu. Plusieurs possibilités existent :
+
+* aucune correspondance 
+* 
+
+Il faut à présent valider chaque radiation manuellement pour créer les mouvements
 de radiation correspondant.
 
 Une fois ces informations saisies, vous n'avez plus qu'à valider
 ce mouvement en cliquant sur le bouton " Ajouter ".
+
+
+Épurer les anciennes demandes de radiations INSEE
+-------------------------------------------------
+
+.. note:: Vérifier que les anciennes demandes de radiations ont toutes été 
+          validées/vérifiées avant de toutes les supprimer. Aucun retour en 
+          arrière n'est possible après épuration.
+
+Cette fonction est accessible via le menu 
+(:menuselection:`Traitement --> Insee`) dans l'onglet 
+(:menuselection:`Épuration`).
+
+
 
 Export INSEE
 ============
