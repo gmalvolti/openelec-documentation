@@ -5,6 +5,16 @@ Module INSEE
 Ce module permet de gérer les échanges dématérialisés de données électorales
 entre les communes et l'INSEE.
 
+.. note::
+
+   Pour adhérer aux échanges dématérialisés avec l'INSEE, la commune doit
+   faire part à sa direction régionale INSEE de rattachement son intention de
+   dématérialiser ses envois. La commune reçoit à cet effet : un formulaire
+   de demande d’adhésion, une convention qui est signée par les deux parties et 
+   un guide d’utilisation de l’application. En retour l'INSEE adresse à la 
+   commune par courriels séparés : un identifiant et un mot de passe.
+
+
 Les communes transmettent à l'INSEE les informations sur les personnes 
 inscrites ou radiées de leurs listes électorales.
 
