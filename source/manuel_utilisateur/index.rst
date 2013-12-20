@@ -9,8 +9,6 @@ Manuel de l'utilisateur
     :numbered:
 
     preambule/index.rst
-    ergonomie/index.rst
-    connexion_deconnexion/index.rst
     avant_de_commencer/index.rst
     utilisateur_saisies/index.rst
     consultation/index.rst
