@@ -85,10 +85,10 @@ La date de tableau est la date à laquelle sera effectuée le prochain
 traitement. Elle permet lors de la saisie de mouvements de lier ce mouvement
 à un traitement. Il ne peut y avoir qu'une seule date de tableau à la fois soit :
 
+* le tableau du 10 janvier qui concerne l'ensemble des mouvements (inscriptions, modifications, radiations),
 
-* le tableau du 10 janvier, qui concerne l'ensemble des mouvements (inscriptions, modifications, radiations)
+* le tableau du 28 février qui concerne (généralement) les mouvements de radiations.
 
-* le tableau du 28 février. qui concerne (généralement) les mouvements de modifications
 
 Consulter la date tableau
 =========================
@@ -98,6 +98,7 @@ Pour consulter la date tableau, il suffit d'accéder au tableau de bord de l'app
 .. figure:: consultation_de_la_date_de_tableau.png
 
     Consultation de la date de tableau
+
 
 Modifier la date tableau
 ========================
