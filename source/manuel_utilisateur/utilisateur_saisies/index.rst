@@ -12,5 +12,3 @@ Saisies
    procuration.rst
    centrevote.rst
    mairieeurope.rst
-   retourcarte.rst
-   jury.rst
