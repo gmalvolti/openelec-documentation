@@ -19,4 +19,3 @@ Manuel de l'utilisateur
     module_multi/index.rst
     fiches_pratiques/index.rst
     faq/index.rst
-
