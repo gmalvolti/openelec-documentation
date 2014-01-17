@@ -115,7 +115,7 @@ Cette fonction est accessible via le menu
 Radiations INSEE
 ================
 
-Ce sont des demandes de radiations faites par l'INSEE qui interviennent 
+Ce sont des **demandes de radiations** faites par l'INSEE qui interviennent 
 notamment en cas d'inscription dans une autre commune. 
 
 L'import de ces demandes de radiations INSEE dans l'application openElec est à 
@@ -158,18 +158,51 @@ L'INSEE peut également transmettre ces fichiers via un CD-ROM.
 Importer le fichier provenant de l'INSEE
 ----------------------------------------
 
-Un fichier au format TXT ou XML est nécessaire pour réaliser cette opération.
-
 Cette fonction est accessible via le menu 
 (:menuselection:`Traitement --> Insee`) dans l'onglet 
 (:menuselection:`Import Radiation`).
 
-.. figure:: module_insee_import_radiation.png
+.. image:: module_insee_import_radiation.png
 
-    Ecran du module : INSEE - Import Radiation
+Pour réaliser l'import du fichier provenant de l'INSEE, dans la section 
+*Import des radiations INSEE*, il faut :
 
-A l'aide du champ " Fichier recu de l'INSEE a importer " sélectionnez
-un fichier à importer. Validez en cliquant sur " Import des radiations INSEE ".
+* télécharger le fichier TXT ou XML provenant de l'INSEE dans le champ 
+  `Fichier reçu de l'INSEE à importer`
+* valider le formulaire en cliquant sur le bouton `Import des radiations INSEE`
+
+Lors de la validation du formulaire, plusieurs cas sont possibles :
+
+* soit l'import s'est déroulé correctement comme le montre l'écran suivant :
+
+  .. image:: module_insee_import_radiation_message_valid.png
+
+  Il est alors possible d'aller valider les demandes de radiations de 
+  l'INSEE une à une pour les transformer en radiation si l'électeur fait 
+  bien partie de la liste électorale.
+
+* soit le fichier de l'INSEE contient des erreurs comme le montre l'écran suivant :
+
+  .. image:: module_insee_import_radiation_message_error_date.png
+
+  Le fichier de l'INSEE contient au moins une erreur dans le format de date de 
+  naissance de l'électeur à la ligne indiquée du fichier TXT. Il est nécessaire
+  de corriger cette date de naissance (en effet les critères qui permettent à 
+  openElec de rattacher la demande de radiation de l'INSEE à un électeur sont 
+  le nom et la date de naissance, si la date de naissance n'est pas correcte 
+  l'électeur ne pourra pas être radié). 
+
+  Pour le faire, il est possible : 
+  
+  * soit de modifier la date en question à la ligne indiquée directement dans 
+    le fichier TXT dans un éditeur de texte (par exemple pour la date non 
+    valide du '00/08/1955' le fichier contient '00081955' : si l'électeur est 
+    connu on la remplace par '12081955' et si l'électeur n'est pas connu on la
+    remplace par '01081955' uniquement dans le but de réussir l'import),
+  * soit de contacter l'INSEE pour obtenir leur aide pour la correction de 
+    ce fichier.
+
+  Une fois le fichier corrigé, il faut recommencer l'opération d'import.
 
 
 Valider les demandes de radiations
