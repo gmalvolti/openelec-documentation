@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'openElec'
-copyright = u'2004-2013, openMairie'
+copyright = u'2004-2014, openMairie'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
