@@ -34,6 +34,11 @@ l'application openElec. De leur côté les communes, après chaque commission
 administrative, récupèrent un fichier dans l'application openElec afin de le 
 transmettre à l'INSEE.
 
+Le module INSEE est accessible via le menu 
+(:menuselection:`Traitement --> Insee`).
+
+.. image:: menu_traitement_insee.png
+
 
 .. contents::
 
@@ -202,7 +207,9 @@ Lors de la validation du formulaire, plusieurs cas sont possibles :
   * soit de contacter l'INSEE pour obtenir leur aide pour la correction de 
     ce fichier.
 
-  Une fois le fichier corrigé, il faut recommencer l'opération d'import.
+  Une fois le fichier corrigé, il faut recommencer l'opération d'import. 
+  Plusieurs dates erronées peuvent se trouver dans ce fichier, si c'est le cas
+  il faut répéter l'opération plusieurs fois.
 
 
 Valider les demandes de radiations
@@ -211,42 +218,76 @@ Valider les demandes de radiations
 Cette fonction est accessible via le menu 
 (:menuselection:`Consultation --> Radiation INSEE`).
 
+.. image:: module_insee_validation_radiation_listing.png
+
 Cet écran présente le listing de toutes les demandes de radiations. Les 
 informations présentes dans ce listing sont celles issues directement du 
 fichier importé.
-
-.. figure:: module_insee_validation_radiation_listing.png
-
-    Ecran : Consultation --> Radiation INSEE
 
 Les demandes de radiations sont soit grisées sans actions disponibles,
 soit non grisées avec des actions disponibles.
 
 Pour valider une demande de radiation il suffit de cliquer sur l'action de
 validation présente en début de ligne. C'est ici que les critères de correspondance
-entrent en jeu. Plusieurs possibilités existent :
+entrent en jeu. Plusieurs cas sont possibles :
 
-* aucune correspondance 
-* 
+* Cas n°1 : un seul électeur correspond à l'association nom + date de naissance
+  transmise par l'INSEE comme le montre l'écran suivant :
 
-Il faut à présent valider chaque radiation manuellement pour créer les mouvements
-de radiation correspondant.
+  .. image:: module_insee_validation_radiation_form_radiation.png
 
-Une fois ces informations saisies, vous n'avez plus qu'à valider
-ce mouvement en cliquant sur le bouton " Ajouter ".
+  Ce formulaire permet de sélectionner le type de mouvement de radiation (motif
+  de radiation) du mouvement qui va être créé (un paramétrage correct des types
+  de mouvements permet de sélectionner de manière automatique ce type de 
+  mouvement en fonction des données transmises par l'INSEE). Un clic 
+  sur le bouton `Ajouter l'enregistrement de la table : "Mouvement"` permet 
+  de créer effectivement le mouvement de radiation sur cet électeur.
+
+  .. image:: module_insee_validation_radiation_form_radiation_message_valid.png
+
+  Le bouton retour ramène au listing des demandes de radiations à valider. La 
+  demande qui vient d'être validée est désormais grisée.
+  
+* Cas n°2 : plusieurs électeurs correspondent comme le montre l'écran suivant :
+
+  .. image:: module_insee_validation_radiation_doublon.png
+
+  En cliquant sur l'action de validation présente en début de ligne de 
+  l'électeur qui correspond à la demande de radiation, c'est le processus du 
+  cas n°1 qui se poursuit.
+
+* Cas n°3 : l'électeur qui correspond à l'association nom + date de naissance
+  transmise par l'INSEE possède déjà un mouvement de radiation en cours comme 
+  le montre l'écran suivant :
+
+  .. image:: module_insee_validation_radiation_mouvement_en_cours.png
+
+  Le bouton retour ramène au listing des demandes de radiations à valider. La 
+  demande de radiation qui vient d'être validée reste dans l'état "non traitée".
+  Il est possible, au choix de l'utilisateur, de la supprimer ou de la conserver 
+  (elle sera supprimée lors de la prochaine épuration).
+
+* Cas n°4 : aucun électeur ne correspond à l'association nom + date de 
+  naissance transmise par l'INSEE comme le montre l'écran suivant :
+
+  .. image:: module_insee_validation_radiation_aucune_correspondance.png
+
+  Le bouton retour ramène au listing des demandes de radiations à valider. La 
+  demande de radiation qui vient d'être validée reste dans l'état "non traitée".
+  Il est possible, au choix de l'utilisateur, de la supprimer ou de la conserver 
+  (elle sera supprimée lors de la prochaine épuration).
 
 
 Épurer les anciennes demandes de radiations INSEE
 -------------------------------------------------
 
-.. note:: Vérifier que les anciennes demandes de radiations ont toutes été 
-          validées/vérifiées avant de toutes les supprimer. Aucun retour en 
-          arrière n'est possible après épuration.
-
 Cette fonction est accessible via le menu 
 (:menuselection:`Traitement --> Insee`) dans l'onglet 
 (:menuselection:`Épuration`).
 
+.. note:: Vérifier que les anciennes demandes de radiations ont toutes été 
+          validées/vérifiées avant de toutes les supprimer. Aucun retour en 
+          arrière n'est possible après épuration.
 
 
 Export INSEE
