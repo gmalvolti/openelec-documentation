@@ -133,3 +133,115 @@ Et après ?
 Ces inscriptions seront ajoutées sur la liste électorale au moment du traitement
 J-5 qui aura lieu 5 jours avant les élections européennes le 20 mai 2014.
 
+
+
+******************************************
+Traitement des cinq jours avant l'élection
+******************************************
+
+Effectuer le traitement J-5 pour les élections municipales 2014
+===============================================================
+
+Que se passe-t-il ?
+-------------------
+
+Le "traitement J-5" permet d'appliquer les rectifications intervenues depuis la
+clôture des listes ou depuis le dernier scrutin postérieur à cette clôture 
+(tableau des cinq jours), ainsi que les additions opérées au titre du deuxième
+alinéa de l'article L. 11-2 (tableau des additions). 
+
+C'est un traitement particulier qui permet de constituer la liste électorale qui 
+entre en vigueur à la date de l'élection générale. 
+
+Pour l'élection municipale du 23 mars 2014, il va vous falloir effectuer deux 
+traitements J-5 :
+
+* Le 1er pour intégrer les **jeunes de 18 ans nés entre le 1er mars et le 22 mars 
+  1996**, et ce au **tableau du 10/01/2014**,
+
+* le 2nd pour appliquer les **rectifications intervenues depuis la clôture des 
+  listes au 28/02/2014**. Ce second J-5 devra être effectué à la date de **tableau 
+  du 10/01/2015**.
+
+
+1er traitement pour les mouvements « IO 18 ANS 01/03 -> 22/03/2014 (L11-2) »
+----------------------------------------------------------------------------
+
+1. Positionner la date de tableau au **10/01/2014**.
+
+.. image:: traitementj5_datedetableau_20140110.png
+
+2. Se rendre sur l'écran (:menuselection:`Traitement --> Traitement J-5`).
+
+.. image:: traitementj5_menu_traitement_traitementj5.png
+
+3. Dans la section `Étape 1`, cocher la case (1) du type de mouvement qui entre en
+   vigueur à la date de l'élection mais en date de tableau du 10/01/2014 soit
+   **Tableau des additions - IO 18 ANS 01/03 -> 22/03/2014 (L11-2)** et 
+   uniquement celle-ci et cliquer sur le bouton `Valider la sélection` (2).
+
+.. image:: traitementj5_trt1_validerselection.png
+
+4. Dans la section `Étape 2 - vérification et application du traitement j-5`,
+   d'abord cliquer sur le lien (1) `Cliquer ici pour visualiser le 
+   recapitulatif complet du traitement` puis cliquer sur le bouton `Appliquer 
+   le traitement J-5`.
+
+.. image:: traitementj5_trt1_validertraitement.png
+
+5. Confirmer le traitement en cliquant sur "OK".
+
+.. image:: traitementj5_trt1_confirmation.png
+
+6. Vérifier que le message **Le traitement est terminé** apparaît.
+
+.. image:: traitementj5_trt1_messagevalidation.png
+
+7. Dans la section `Étape 3 - Édition des nouvelles cartes d'électeurs`, on 
+   peut lire qu'il est possible d'éditer à tout moment les nouvelles cartes 
+   électorales depuis l'écran 
+   (:menuselection:`Édition --> Révision électorale`)
+
+8. Repositionner la date de tableau au **10/01/2015**.
+
+.. image:: traitementj5_datedetableau_20150110.png
+
+
+2nd traitement pour les mouvements au 10/01/2015
+------------------------------------------------
+
+1. Vérifier que la date de tableau est bien au **10/01/2015**.
+
+.. image:: traitementj5_datedetableau_20150110.png
+
+2. Se rendre sur l'écran (:menuselection:`Traitement --> Traitement J-5`).
+
+.. image:: traitementj5_menu_traitement_traitementj5.png
+
+3. Dans la section `Étape 1`, cocher la case (1) du tableau des cinq jours et 
+   uniquement celle-ci puis cliquer sur le bouton `Valider la sélection` (2).
+
+.. image:: traitementj5_trt2_validerselection.png
+
+4. Dans la section `Étape 2 - vérification et application du traitement j-5`,
+   d'abord cliquer sur le lien (1) `Cliquer ici pour visualiser le 
+   recapitulatif complet du traitement` puis cliquer sur le bouton `Appliquer 
+   le traitement J-5`.
+
+.. image:: traitementj5_trt2_validertraitement.png
+
+5. Confirmer le traitement en cliquant sur "OK".
+
+.. image:: traitementj5_trt2_confirmation.png
+
+6. Vérifier que le message **Le traitement est terminé** apparaît.
+
+.. image:: traitementj5_trt2_messagevalidation.png
+
+7. Dans la section `Étape 3 - Édition des nouvelles cartes d'électeurs`, on 
+   peut lire qu'il est possible d'éditer à tout moment les nouvelles cartes 
+   électorales depuis l'écran 
+   (:menuselection:`Édition --> Révision électorale`)
+
+
+
