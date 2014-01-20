@@ -1,7 +1,7 @@
 .. _decoupage:
 
 #########
-Decoupage
+Découpage
 #########
 
 Le découpage inclut plusieurs notions: le canton, le bureau, la voie.
