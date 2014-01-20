@@ -60,7 +60,7 @@ Lorsque vous recevez les radiations INSEE, le motif de radiation est inscrit sou
 * 9 - perte de nationalité française
 
 Il suffira donc de choisir le mouvement et cocher la case du chiffre qui correspond au mouvement. Par exemple 
-le mouvement "DECES INSEE" correspond au chiffre 0.
+le mouvement "DECES INSEE" correspond au chiffre 1.
 
 
 
