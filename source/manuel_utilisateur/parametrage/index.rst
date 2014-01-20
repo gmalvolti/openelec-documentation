@@ -48,16 +48,16 @@ en fonction des données transmises par l'INSEE, lors de la validation de la dem
 
 Lorsque vous recevez les radiations INSEE, le motif de radiation est inscrit sous forme de numéro :
 
-0 - inscription d'office dans une autre commune
-1 - décès
-2 - changement de commune d'inscription (nouvelle inscription sur décision de la commission administrative)
-3 - changement de commune d'inscription (nouvelle inscription sur décision judiciaire)
-4 - n'a pas atteint l'âge électoral
-5 - état civil incontrolable
-6 - inscription volontaire annulant l'inscription d'office dans votre commune
-7 - décision de tutelle privative de la capacité électorale
-8 - condamnation privative de la capacité électorale
-9 - perte de nationalité française
+* 0 - inscription d'office dans une autre commune
+* 1 - décès
+* 2 - changement de commune d'inscription (nouvelle inscription sur décision de la commission administrative)
+* 3 - changement de commune d'inscription (nouvelle inscription sur décision judiciaire)
+* 4 - n'a pas atteint l'âge électoral
+* 5 - état civil incontrolable
+* 6 - inscription volontaire annulant l'inscription d'office dans votre commune
+* 7 - décision de tutelle privative de la capacité électorale
+* 8 - condamnation privative de la capacité électorale
+* 9 - perte de nationalité française
 
 Il suffira donc de choisir le mouvement et cocher la case du chiffre qui correspond au mouvement. Par exemple 
 le mouvement "DECES INSEE" correspond au chiffre 0.
