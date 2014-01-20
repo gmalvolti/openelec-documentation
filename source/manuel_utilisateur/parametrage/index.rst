@@ -43,7 +43,7 @@ fait de la même manière que le paramétrage des utilisateurs.
 Paramétrage des mouvements pour import radiations INSEE
 -------------------------------------------------------
 
-un paramétrage correct des types de mouvements permet de sélectionner de manière automatique le motif de radiation 
+Un paramétrage correct des types de mouvements permet de sélectionner de manière automatique le motif de radiation 
 en fonction des données transmises par l'INSEE, lors de la validation de la demande de radiation.
 
 Lorsque vous recevez les radiations INSEE, le motif de radiation est inscrit sous forme de numéro :
