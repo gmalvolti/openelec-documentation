@@ -41,13 +41,13 @@ fait de la même manière que le paramétrage des utilisateurs.
     Rubrique Parametrage : Mouvements
     
 Paramétrage des mouvements pour import radiations INSEE
-=======================================================
+-------------------------------------------------------
 
-Ce chapitre spécial fait référence au chapitre (traitement - INSEE - import radiations)
-Il est possible de paramétrer les mouvements de radiations que vous recevez de l'INSEE 
-afin que lorsque vous valider les radiations INSEE, le mouvement s'insère automatiquement
-Dans le type de mouvement. Vous n'aurez plus qu'à confimer la radiation.
+un paramétrage correct des types de mouvements permet de sélectionner de manière automatique le motif de radiation 
+en fonction des données transmises par l'INSEE, lors de la validation de la demande de radiation.
+
 Lorsque vous recevez les radiations INSEE, le motif de radiation est inscrit sous forme de numéro :
+
 0 - inscription d'office dans une autre commune
 1 - décès
 2 - changement de commune d'inscription (nouvelle inscription sur décision de la commission administrative)
@@ -59,8 +59,8 @@ Lorsque vous recevez les radiations INSEE, le motif de radiation est inscrit sou
 8 - condamnation privative de la capacité électorale
 9 - perte de nationalité française
 
-Il suffira donc de choisir le mouvement et cliquer devant le chiffre qui correspond au mouvement. Par exemple 
-le mouvement "départ autre commune INSEE" correspond au chiffre 0.
+Il suffira donc de choisir le mouvement et cocher la case du chiffre qui correspond au mouvement. Par exemple 
+le mouvement "DECES INSEE" correspond au chiffre 0.
 
 
 
