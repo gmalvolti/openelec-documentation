@@ -8,8 +8,8 @@ Fiches pratiques
 Saisie et édition des tableaux des additions : jeunes de 18 ans (L11-2)
 ***********************************************************************
 
-Intégrer les jeunes IO au tableau du 10 janvier 2014
-====================================================
+Intégrer les jeunes IO au tableau du 10 janvier 2014 pour les élections municipales
+===================================================================================
 
 Gestion de l'article L11-2 deuxième alinéa pour un scrutin général organisé 
 en mars.
