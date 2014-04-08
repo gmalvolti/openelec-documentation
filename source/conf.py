@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# openelec documentation build configuration file, created by
-# sphinx-quickstart on Thu Mar 25 19:38:35 2010.
+# openelec documentation build configuration file.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -12,9 +11,6 @@
 # serve to show the default.
 
 import sys, os
-
-# ReadTheDocs Flag
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -43,8 +39,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'openElec'
-copyright = u'2004-2013, openMairie'
+project = u'openElec 4.0'
+copyright = u'2004-2014, openMairie'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -94,25 +90,19 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#html_theme = 'sphinxdoc'
-if on_rtd:
-    html_theme = 'default'
-else:
-    html_theme = 'sphinx.openmairietheme'
+html_theme = 'default'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-html_theme_options = {
-
-}
+#html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['_themes']
+#html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = project+" documentation"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -214,6 +204,7 @@ latex_documents = [
 # If false, no module index is generated.
 #latex_domain_indices = True
 
+#
 latex_elements = {}
 latex_elements['preamble'] = '\\setcounter{secnumdepth}{5}\\setcounter{tocdepth}{5}'
 

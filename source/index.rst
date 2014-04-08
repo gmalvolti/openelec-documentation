@@ -57,4 +57,3 @@ Contributeurs
 * Sophie Lacroix
 * Jean-Yves Laugier
 * Florent Michon
-
