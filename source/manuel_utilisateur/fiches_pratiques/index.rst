@@ -243,5 +243,103 @@ traitements J-5 :
    électorales depuis l'écran 
    (:menuselection:`Édition --> Révision électorale`)
 
+Effectuer le traitement J-5 pour les élections européennes 2014
+===============================================================
 
+Que se passe-t-il ?
+-------------------
+
+Le "traitement J-5" permet d'appliquer les rectifications intervenues depuis la
+clôture des listes ou depuis le dernier scrutin postérieur à cette clôture 
+(tableau des cinq jours), ainsi que les additions opérées au titre du deuxième
+alinéa de l'article L. 11-2 (tableau des additions). 
+
+C'est un traitement particulier qui permet de constituer la liste électorale qui 
+entre en vigueur à la date de l'élection générale. 
+
+Pour l'élection européenne du 25 mai 2014, il va vous falloir effectuer deux 
+traitements J-5 :
+
+* Le 1er pour intégrer les **jeunes de 18 ans nés entre 23 mars et le 24 mai
+  1996**.
+
+* le 2nd pour appliquer les **rectifications intervenues depuis la clôture des 
+  listes au 28/02/2014**. Ce second J-5 devra être effectué à la date de **tableau 
+  du 10/01/2015**.
+
+
+1er traitement pour les mouvements « IO au 6 mars »
+----------------------------------------------------------------------------
+
+1. Positionner la date de tableau au **10/01/2015**.
+
+.. image:: traitementj5_datedetableau_20140110.png
+
+2. Se rendre sur l'écran (:menuselection:`Traitement --> Traitement J-5`).
+
+.. image:: traitementj5_menu_traitement_traitementj5.png
+
+3. Dans la section `Étape 1`, cocher la case (1) du type de mouvement qui entre en
+   ** Tableau des additions - IO TABLEAU DU 6 MARS (L11-2)** et 
+   uniquement celle-ci et cliquer sur le bouton `Valider la sélection` (2).
+
+.. image:: traitementj5_trt1_validerselection.png
+
+4. Dans la section `Étape 2 - vérification et application du traitement j-5`,
+   d'abord cliquer sur le lien (1) `Cliquer ici pour visualiser le 
+   recapitulatif complet du traitement` puis cliquer sur le bouton `Appliquer 
+   le traitement J-5`.
+
+.. image:: traitementj5_trt1_validertraitement.png
+
+5. Confirmer le traitement en cliquant sur "OK".
+
+.. image:: traitementj5_trt1_confirmation.png
+
+6. Vérifier que le message **Le traitement est terminé** apparaît.
+
+.. image:: traitementj5_trt1_messagevalidation.png
+
+7. Dans la section `Étape 3 - Édition des nouvelles cartes d'électeurs`, on 
+   peut lire qu'il est possible d'éditer à tout moment les nouvelles cartes 
+   électorales depuis l'écran 
+   (:menuselection:`Édition --> Révision électorale`)
+
+
+
+2nd traitement pour les mouvements au 10/01/2015
+------------------------------------------------
+
+1. Vérifier que la date de tableau est bien au **10/01/2015**.
+
+.. image:: traitementj5_datedetableau_20150110.png
+
+2. Se rendre sur l'écran (:menuselection:`Traitement --> Traitement J-5`).
+
+.. image:: traitementj5_menu_traitement_traitementj5.png
+
+3. Dans la section `Étape 1`, cocher la case (1) du tableau des cinq jours et 
+   uniquement celle-ci puis cliquer sur le bouton `Valider la sélection` (2).
+
+.. image:: traitementj5_trt2_validerselection.png
+
+4. Dans la section `Étape 2 - vérification et application du traitement j-5`,
+   d'abord cliquer sur le lien (1) `Cliquer ici pour visualiser le 
+   recapitulatif complet du traitement` puis cliquer sur le bouton `Appliquer 
+   le traitement J-5`.
+
+.. image:: traitementj5_trt2_validertraitement.png
+
+5. Confirmer le traitement en cliquant sur "OK".
+
+.. image:: traitementj5_trt2_confirmation.png
+
+6. Vérifier que le message **Le traitement est terminé** apparaît.
+
+.. image:: traitementj5_trt2_messagevalidation.png
+
+7. Dans la section `Étape 3 - Édition des nouvelles cartes d'électeurs`, on 
+   peut lire qu'il est possible d'éditer à tout moment les nouvelles cartes 
+   électorales depuis l'écran 
+   (:menuselection:`Édition --> Révision électorale`)
 
