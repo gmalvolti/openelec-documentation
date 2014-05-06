@@ -271,9 +271,8 @@ traitements J-5 :
 1er traitement pour les mouvements « IO au 6 mars »
 ----------------------------------------------------------------------------
 
-1. Positionner la date de tableau au **10/01/2015**.
+1. Vérifiez que la date de tableau est au **10/01/2015**.
 
-.. image:: traitementj5_datedetableau_20140110.png
 
 2. Se rendre sur l'écran (:menuselection:`Traitement --> Traitement J-5`).
 
