@@ -30,7 +30,7 @@ Redécoupage
 Cet onglet permet d'éditer et de visualiser l'état actuel du découpage.
 
 
-.. figure:: module_redecoupage.png
+.. figure:: module_traitement_redecoupage_redecoupage.png
 
     Ecran du module : Redécoupage
 
