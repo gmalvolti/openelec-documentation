@@ -35,7 +35,7 @@ Cet onglet permet d'éditer et de visualiser l'état actuel du découpage.
     Ecran du module : Redécoupage
 
 Initialisation
-##########
+##############
 
 Cet onglet va vous permettre de préparer votre table voies et électeurs avant d'entamer un redécoupage. 
 En effet, ce module permet de normaliser les voies (en cas de voies saisies en double, mal orthographiées etc.), effectuer un premier
