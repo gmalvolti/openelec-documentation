@@ -14,3 +14,5 @@ commission et les tableaux rectificatifs. C'est un numéro provisoire, il leur
 sera attribué un numéro au moment où ces mouvements seront appliqués sur la 
 liste électorale.
 
+
+
