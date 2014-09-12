@@ -8,7 +8,7 @@ L'ensemble des mouvements de modification seront appliqués lors du prochain tra
 Pour appliquer le redécoupage, cliquer sur le bouton "Redécoupage Electoral", une fenêtre s'ouvre demandant la confirmation "êtes-vous sûr de vouloir confirmer cette action" cliquez sur OK si vous êtes sûr, sinon sur Annuler.
 
 
-.. figure:: module_redecoupage.png
+.. figure:: module_traitement_redecoupage.png
 
     Ecran du module : Redécoupage
 
@@ -19,7 +19,7 @@ Simulation
 Cet onglet permet d'éditer et de visualiser l'état actuel du découpage.
 
 
-.. figure:: module_redecoupage.png
+.. figure:: module_traitement_redecoupage.png
 
     Ecran du module : Redécoupage
     
