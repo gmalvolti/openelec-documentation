@@ -23,3 +23,8 @@ supprimer comme tous les paramétrages précédents.
 .. figure:: decoupage_voie.png
 
     Rubrique Decoupage : Voie
+
+
+.. figure:: decoupage_voie_affection_bureau.png
+
+    Rubrique Decoupage : Découpage
