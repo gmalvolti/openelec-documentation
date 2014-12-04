@@ -13,7 +13,7 @@ Saisie et édition des tableaux des additions : jeunes de 18 ans (L11-2)
 ***********************************************************************
 
 Intégrer les jeunes IO au tableau du 10 janvier 2015 pour les élections départementales
-===================================================================================
+=======================================================================================
 
 Gestion de l'article L11-2 deuxième alinéa pour un scrutin général organisé 
 en mars.
@@ -79,7 +79,7 @@ Traitement des cinq jours avant l'élection
 ******************************************
 
 Effectuer le traitement J-5 pour les élections départementales 2015
-===============================================================
+===================================================================
 
 Que se passe-t-il ?
 -------------------
