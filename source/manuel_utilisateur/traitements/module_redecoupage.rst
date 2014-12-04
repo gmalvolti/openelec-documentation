@@ -46,9 +46,9 @@ Ces étapes sont nécessaires avant un redécoupage.
 
     Ecran du module : onglet initialisation
 
-*************************
+*******************
 Découpage électoral
-*************************
+*******************
 
 Cette édition va vous permettre d'éditer un pdf de l'ensemble des voies de la commune ainsi que le bureau ou les bureaux affectés à cette voie
 et le nombre d'électeur par voie.
@@ -58,9 +58,9 @@ et le nombre d'électeur par voie.
 
     Ecran du module : Edition des voies par bureau
     
-******************
+****************
 Aide à la saisie
-******************
+****************
 
 Cette édition va vous permettre d'éditer un pdf de l'ensemble des voies de la commune qui n'ont pas de découpage.
 
@@ -69,9 +69,9 @@ Cette édition va vous permettre d'éditer un pdf de l'ensemble des voies de la 
 
     Ecran du module : Edition des voies non découpées
     
-*****************************
+***********************
 Normalisation des voies
-*****************************
+***********************
 
 Cet outil va vous permettre de normaliser les voies qui sont en double. La normalisation des voies s'effectue uniquement deux voies par deux voies.
 
@@ -88,9 +88,9 @@ enfin, cliquer sur le bouton "fusionner les voies"
     Ecran du module : fusionner les voies
    
     
-***************************************************
+********************************************
 Initialisation des électeurs en bureau forcé
-***************************************************
+********************************************
 
 Cet outil va vous permettre de retirer l'affection forcée d'un bureau sur tous les électeurs qui sont normalement affecté au bureau défini dans le découpage
 Aucun mouvement de modification ne sera effectué puisque l'électeur ne change pas de bureau.
@@ -102,9 +102,9 @@ Pour ce faire, cliquer sur le bouton "initiliser les électeurs en bureau forcé
     Ecran du module : initialiser les électeurs en bureau forcé
     
     
-******************************************
+************************************
 Initialisation de la table découpage
-******************************************
+************************************
 
 Cet outil permet d'effectuer le découpage automatique de l'ensemble des voies qui n'auraient pas été découpées préalablement.
 Pour chaque voie, si les électeurs sont affectés à un seul bureau, openElec effectue le découpage automatiquement. 
