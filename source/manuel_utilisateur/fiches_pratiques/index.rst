@@ -67,7 +67,7 @@ Et après ?
 ----------
 
 Ces inscriptions seront ajoutées sur la liste électorale au moment du traitement
-J-5 qui aura lieu 5 jours avant les élections municipales le 17 mars 2015. En 
+J-5 qui aura lieu 5 jours avant les élections départementales le 17 mars 2015. En 
 effet, ces inscriptions ne seront pas appliquées lors du traitement annuel du 
 10/01. Par exemple, si vous arrêtez votre tableau à 9542 électeurs et que vous
 avez 8 jeunes concernés, après le traitement annuel du 10/01 votre liste 
@@ -108,8 +108,6 @@ traitements J-5 :
 
 1. Positionner la date de tableau au **10/01/2015**.
 
-.. image:: traitementj5_datedetableau_20140110.png
-
 2. Se rendre sur l'écran (:menuselection:`Traitement --> Traitement J-5`).
 
 .. image:: traitementj5_menu_traitement_traitementj5.png
@@ -130,11 +128,7 @@ traitements J-5 :
 
 5. Confirmer le traitement en cliquant sur "OK".
 
-.. image:: traitementj5_trt1_confirmation.png
-
 6. Vérifier que le message **Le traitement est terminé** apparaît.
-
-.. image:: traitementj5_trt1_messagevalidation.png
 
 7. Dans la section `Étape 3 - Édition des nouvelles cartes d'électeurs`, on 
    peut lire qu'il est possible d'éditer à tout moment les nouvelles cartes 
@@ -170,8 +164,6 @@ traitements J-5 :
 .. image:: traitementj5_trt2_validertraitement.png
 
 5. Confirmer le traitement en cliquant sur "OK".
-
-.. image:: traitementj5_trt2_confirmation.png
 
 6. Vérifier que le message **Le traitement est terminé** apparaît.
 
