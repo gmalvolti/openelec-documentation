@@ -1,6 +1,6 @@
-Documentation openElec version 4.2
+Documentation openElec version 4.3
 ==================================
 
-.. image:: https://travis-ci.org/openmairie/openelec-documentation.png?branch=4.2
+.. image:: https://travis-ci.org/openmairie/openelec-documentation.png?branch=4.3
     :target: https://travis-ci.org/openmairie/openelec-documentation
 
