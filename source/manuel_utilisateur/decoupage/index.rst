@@ -13,6 +13,9 @@ fonction de son adresse.
 Les trois paramétrages sont identiques aux paramétrages vus précédemment :
 ajout, suppression, modification.
 
+.. note:: Depuis début 2015 les codes cantons sont obligatoires dans l'export préfecture de la liste électorale.
+   Ils sont modifiable lors de l'édition des cantons.
+
 Seule l'association de voies à un bureau est légèrement différente comme on
 peut le voir sur la figure suivante. Lorsque l'on modifie, une voie on peut
 visualiser un tableau supplémentaire qui associe cette voie à un bureau.
