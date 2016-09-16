@@ -183,12 +183,12 @@ traitements J-5 :
    (:menuselection:`Édition --> Révision électorale`)
    
    
-***********************************************************************
-Que faire après le traitement du 28 février 2017
-***********************************************************************
+************************************************
+Que faire après le traitement du 28 février 2016
+************************************************
 
-Au préalable :
---------------
+Au préalable
+------------
 
     J'ai envoyé à l'INSEE le fichier des mouvements rectificatifs : traitement -> INSEE -> Export -> Génération du fichier Export INSEE
     J'ai effectué le traitement annuel au 29/02/2016 SUR LES TROIS LISTES: traitement -> traitement de fin d'année -> Appliquer le traitement annuel
