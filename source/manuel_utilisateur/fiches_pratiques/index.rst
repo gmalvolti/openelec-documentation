@@ -190,12 +190,13 @@ Que faire après le traitement du 28 février 2016
 Au préalable
 ------------
 
-    J'ai envoyé à l'INSEE le fichier des mouvements rectificatifs : traitement -> INSEE -> Export -> Génération du fichier Export INSEE
-    J'ai effectué le traitement annuel au 29/02/2016 SUR LES TROIS LISTES: traitement -> traitement de fin d'année -> Appliquer le traitement annuel
-    J'ai changé ma date de tableau au 10/01/2017 : Tableau de bord -> cliquez sur la date de tableau -> saisissez la nouvelle date : 10/01/2017
+1 - J'ai envoyé à l'INSEE le fichier des mouvements rectificatifs : traitement -> INSEE -> Export -> Génération du fichier Export INSEE
+2 - J'ai effectué le traitement annuel au 29/02/2016 SUR LES TROIS LISTES: traitement -> traitement de fin d'année -> Appliquer le traitement annuel
+3 - J'ai changé ma date de tableau au 10/01/2017 : Tableau de bord -> cliquez sur la date de tableau -> saisissez la nouvelle date : 10/01/2017
 
 Je dois envoyer les tableaux de commission au 29/02/2016 à la Préfecture et éditer les cartes des nouveaux électeurs
 --------------------------------------------------------------------------------------------------------------------
+
 .. image:: traitement28fevrier_edition_revisionlectorale.png
 
 Editions - Révision électorale - second tableau rectificatif (pour les tableaux)
