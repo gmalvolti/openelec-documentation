@@ -181,3 +181,72 @@ traitements J-5 :
    peut lire qu'il est possible d'éditer à tout moment les nouvelles cartes 
    électorales depuis l'écran 
    (:menuselection:`Édition --> Révision électorale`)
+   
+   
+***********************************************************************
+Que faire après le traitement du 28 février 2017
+***********************************************************************
+
+Au préalable :
+--------------
+
+    J'ai envoyé à l'INSEE le fichier des mouvements rectificatifs : traitement -> INSEE -> Export -> Génération du fichier Export INSEE
+    J'ai effectué le traitement annuel au 29/02/2016 SUR LES TROIS LISTES: traitement -> traitement de fin d'année -> Appliquer le traitement annuel
+    J'ai changé ma date de tableau au 10/01/2017 : Tableau de bord -> cliquez sur la date de tableau -> saisissez la nouvelle date : 10/01/2017
+
+Je dois envoyer les tableaux de commission au 29/02/2016 à la Préfecture et éditer les cartes des nouveaux électeurs
+--------------------------------------------------------------------------------------------------------------------
+.. image:: traitement28fevrier_edition_revisionlectorale.png
+
+Editions - Révision électorale - second tableau rectificatif (pour les tableaux)
+
+1 - Cliquez sur tableau (par bureau) dans le second tableau rectificatif
+
+Editions - Révision électorale - traitement annuel du 10/01/2016 (pour les cartes)
+
+2 - Cliquez sur "nouvelles cartes électorales"
+
+
+Je dois envoyer les listes électorales à la Préfecture
+------------------------------------------------------
+
+.. image:: traitement28fevrier_moduleprefecture.png
+
+Traitement - Préfecture
+POUR CHACUNE DES 3 LISTES :
+
+    Choisir la liste sur laquelle vous devez exporter la liste électorale
+
+1 - Choisir le format CSV
+2 - Cliquez sur le bouton "génération du fichier"
+3 - Cliquez "droit" avec votre souris sur le fichier dont la date correspond à la date du jour (date et heure) et cliquez sur "enregistrer la
+cible du lien sous" NE CHANGEZ PAS LE NOM DU FICHIER ET NE PAS L'OUVRIR AVANT DE L'ENREGISTRER
+
+Effectuez la même opération pour les 3 listes
+
+    la liste générale s'appellera "liste P date du jour + heure "
+    la liste Complémentaire CEuropéenne s'appellera "liste CE date du jour + heure "
+    la liste Complémentaire Municipale s'appellera "liste CM date du jour + heure"
+
+Je dois envoyer les statistiques à la Préfecture
+------------------------------------------------
+
+.. image:: traitement28fevrier_editionstatistiques.png
+
+Edition - Statistiques
+
+Je dois éditer la liste générale
+---------------------------------
+
+.. image:: traitement28fevrier_editionlisteelectorale.png
+
+Editions - Générales
+POUR CHACUNE DES 3 LISTES :
+
+    Choisir la liste sur laquelle vous devez exporter la liste électorale
+
+1 - Cliquer sur "générer" pour que la liste générale soit générée à la date
+du jour
+2 - Cliquer sur le bouton "visualiser"
+
+Effectuez la même opération pour les 3 listes
