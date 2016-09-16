@@ -188,7 +188,7 @@ Que faire après le traitement du 28 février 2016
 ************************************************
 
 Au préalable
-------------
+============
 
 1 - J'ai envoyé à l'INSEE le fichier des mouvements rectificatifs : traitement -> INSEE -> Export -> Génération du fichier Export INSEE
 2 - J'ai effectué le traitement annuel au 29/02/2016 SUR LES TROIS LISTES: traitement -> traitement de fin d'année -> Appliquer le traitement annuel
