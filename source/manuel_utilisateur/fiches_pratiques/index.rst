@@ -43,14 +43,14 @@ Comment faire ?
 * Vérifier que la date de tableau est bien positionnée au 10/01/2018 sinon 
   changer la date de tableau au 10/01/2018.
   
-  .. image:: traitementj5_datedetableau_20140110.png
+  .. image:: changerladatedetableau.png
 
 * Procéder à l'inscription des jeunes inscrits d'office comme vous avez 
   l'habitude de le faire (soit depuis l'import IO du module INSEE, soit en 
   saisie directe) en veillant à sélectionner le type de mouvement 
   « INSCRIT D'OFFICE AU TABLEAU DU 6 FEVRIER ».
   
-  .. image:: traitementj5_datedetableau_20140110.png
+  .. image:: inscritdoffocetableaudu6fevrier.png
 
 * Une fois tous les mouvements saisis, ces mouvements seront présents dans le
   tableau rectificatif à présenter en commission comme vous avez l'habitude 
@@ -58,7 +58,7 @@ Comment faire ?
   menu « Edition → Révision électorale ». Dans la section « Tableau des 
   additions »
   
-  .. image:: traitementj5_datedetableau_20140110.png
+  .. image:: Editerletableaudesioau6fevrier.png
   
 * Repositionner la date de tableau si vous l'avez changé lors de la première
   étape.
