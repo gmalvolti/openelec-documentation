@@ -12,53 +12,54 @@ Fiches pratiques
 Saisie et édition des tableaux des additions : jeunes de 18 ans (L11-2)
 ***********************************************************************
 
-Intégrer les jeunes IO au tableau du 10 janvier 2015 pour les élections départementales
+Tableau du 6 février pour l'élection présidentielle
 =======================================================================================
 
-Gestion de l'article L11-2 deuxième alinéa pour un scrutin général organisé 
-en mars.
+Gestion de l'article L11-2 deuxième alinéa pour un scrutin général
 
 Que se passe-t-il ?
 -------------------
 
-Vous allez prochainement recevoir de l'INSEE ou avez reçu de l'INSEE, une 
-liste de jeunes qui auront 18 ans entre le 1er mars 2014 et le 21 mars 2015,
-c'est-à-dire au jour du 1er tour de scrutin des élections départementales.
+Vous allez prochainement recevoir de l'INSEE, une liste de jeunes qui auront 
+18 ans entre le 1er mars 2017 et le 22 avril 2017, c'est-à-dire au jour du 1er tour 
+de scrutin de l'élection présidentielle.
 
-Ces jeunes doivent faire l'objet d'une inscription d'office au titre de 
-l'article L.11-2 2ème alinéa du code électoral, sous réserve des vérifications
-habituelles. Ils seront inscrits comme tout nouvel inscrit sur le tableau du 
-10 janvier 2015 et seront ajoutés après la clôture des listes du 1er mars.
+Ces jeunes doivent faire l'objet d'une inscription d'office au titre de l'article L.11-2 
+2ème alinéa du code électoral, sous réserve des vérifications habituelles. Ils seront 
+inscrits exclusivement sur le tableau du 6 février et ne doivent pas être portés 
+ni sur le tableau du 10 janvier ni sur celui du 29 février, ni sur la liste électorale 
+entrant en vigueur le 1er mars. 
 
-Ces inscriptions n'entrent en vigueur que le 22 mars 2015. Elles seront donc 
-traitées lors du traitement J-5 des élections départementales le 17 mars 2014.
-Pour cela, il vous faut saisir ces inscriptions d'office à la date de tableau
-du 10/01/2015 puisqu'ils entrent dans la révision électorale 2014/2015.
-
-La commission administrative devra être convoquée en réunion normale au plus
-tard le 9 janvier 2015. Le tableau rectifictif pourra être édité comme vous avez 
-l'habitude de le faire depuis l'écran 'Traitement -> Commission' ou depuis
-l'écran 'Edition -> Révision électorale'.
+Ces inscriptions n'entrent en vigueur que le 22 avril 2017. Elles seront donc traitées lors du traitement J-5 
+de l'élection présidentielle le 17 avril 2017.
+Pour cela, il vous faut saisir ces inscriptions d'office à la date de tableau du 10/01/2018 
+puisqu'ils entrent dans la révision électorale 2017/2018.
+La commission administrative devra être convoquée en réunion spéciale au plus tard le 1er février 2017. 
 
 
 Comment faire ?
 ---------------
 
-* Vérifier que la date de tableau est bien positionnée au 10/01/2015 sinon 
-  changer la date de tableau au 10/01/2015.
+* Vérifier que la date de tableau est bien positionnée au 10/01/2018 sinon 
+  changer la date de tableau au 10/01/2018.
+  
+  .. image:: traitementj5_datedetableau_20140110.png
 
 * Procéder à l'inscription des jeunes inscrits d'office comme vous avez 
   l'habitude de le faire (soit depuis l'import IO du module INSEE, soit en 
-  saisie directe) en veillant à sélectionner le type de mouvement « IO 18 ANS 
-  01/03 -> 21/03/2015 (L11-2) ».
+  saisie directe) en veillant à sélectionner le type de mouvement 
+  « INSCRIT D'OFFICE AU TABLEAU DU 6 FEVRIER ».
+  
+  .. image:: traitementj5_datedetableau_20140110.png
 
 * Une fois tous les mouvements saisis, ces mouvements seront présents dans le
   tableau rectificatif à présenter en commission comme vous avez l'habitude 
   de le faire. Vous pouvez également éditer le tableau des additions via le 
   menu « Edition → Révision électorale ». Dans la section « Tableau des 
-  additions », cliquer sur l'édition « Tableau (par bureau) » en dessous de la
-  mention « IO 18 ANS 01/03 -> 21/03/2015 (L11-2) ». 
-
+  additions »
+  
+  .. image:: traitementj5_datedetableau_20140110.png
+  
 * Repositionner la date de tableau si vous l'avez changé lors de la première
   étape.
 
@@ -67,7 +68,7 @@ Et après ?
 ----------
 
 Ces inscriptions seront ajoutées sur la liste électorale au moment du traitement
-J-5 qui aura lieu 5 jours avant les élections municipales le 17 mars 2015. En 
+J-5 qui aura lieu 5 jours avant les élections présidentielles le 17 avril 2017. En 
 effet, ces inscriptions ne seront pas appliquées lors du traitement annuel du 
 10/01. Par exemple, si vous arrêtez votre tableau à 9542 électeurs et que vous
 avez 8 jeunes concernés, après le traitement annuel du 10/01 votre liste 
