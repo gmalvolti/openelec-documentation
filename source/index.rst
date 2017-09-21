@@ -1,8 +1,8 @@
 .. openelec documentation master file.
 
-==========================
-openElec 4.4 documentation
-==========================
+========================================
+openElec 5.0 (non publiée) documentation
+========================================
 
 .. note::
 
@@ -29,13 +29,10 @@ openElec est la solution libre des collectivités territoriales pour la gestion
 des listes électorales. openElec permet la gestion complète des listes
 électorales pour les élections politiques, de l'inscription d'un électeur,
 jusqu'à l'édition de sa carte électorale, l'édition des listes d'émargement, le
-transfert à l'Insee des nouvelles inscriptions et bien plus encore...
+transfert à l'Insee des nouvelles inscriptions et bien plus encore... 
+http://www.openmairie.org/catalogue/openelec/
 
-Ce document a pour but de guider les utilisateurs et les développeurs dans la
-prise en main du projet.
-
-Bonne lecture et n'hésitez pas à nous faire part de vos remarques à l'adresse
-suivante : contact@openmairie.org !
+Ce document a pour but de guider les utilisateurs et les développeurs dans la prise en main du projet. Bonne lecture et n'hésitez pas à venir discuter du projet avec la communauté à l’adresse suivante : https://communaute.openmairie.org/c/openelec
 
 
 Manuel de l'utilisateur
