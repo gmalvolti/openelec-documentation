@@ -4,22 +4,10 @@
 Consultation
 ############
 
-Généralités
------------
+.. figure:: menu-rubrik-consultation.png
 
-La rubrique consultation vous permet de consulter les listes suivantes :
+   Menu - Rubrique 'Consultation'
 
-   * electorale,
-   * archive,
-   * inscription,
-   * radiation,
-   * modification,
-   * procuration,
-   * centre de vote,
-   * mairie Europe,
-   * inscription office INSEE,
-   * radiation INSEE,
-   * traces et editions.
 
 Pour chaque liste, vous disposez d'une fonction de recherche permettant
 de trouver un électeur par son prénom, nom, sa date de naissance ou même son identifiant openElec.
