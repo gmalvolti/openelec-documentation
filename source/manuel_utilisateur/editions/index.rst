@@ -4,6 +4,12 @@
 Editions
 ########
 
+
+.. figure:: menu-rubrik-edition.png
+
+   Menu - Rubrique 'Édition'
+
+
 Révision électorale
 -------------------
 
