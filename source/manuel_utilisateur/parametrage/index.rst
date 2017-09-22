@@ -11,24 +11,8 @@ Paramétrage
 Tous les paramétrages se font par l’intermédiaire de formulaires. Dans
 l’optique openMairie, l’application présente un tableau permettant de choisir
 l’enregistrement à modifier ou à supprimer, ou de créer un nouvel
-enregistrement. Les éléments paramétrables sont : mouvement, collectivite,
-numérotation bureau, liste, communes, départements, nationalités, utilisateur,
-profil, droit.
+enregistrement.
 
-Gestion des utilisateurs
-========================
-
-Ce paramétrage permet de créer, modifier ou supprimer des utilisateurs.
-
-.. figure:: parametrage_utilisateurs.png
-
-    Rubrique Parametrage : Gestion Utilisateur
-
-En effet, pour ajouter un nouvel utilisateur, il suffit de cliquer sur
-l'icone + en haut à gauche du tableau, pour obtenir un formulaire
-d'insertion. En cliquant sur l'icone supprimer devant l'utilisateur,
-on obtient un formulaire de suppression. Et enfin en cliquant sur le
-nom de l'utilisateur, on obtient un formulaire de modification.
 
 Paramétrage des mouvements
 ==========================
