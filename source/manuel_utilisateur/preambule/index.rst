@@ -269,3 +269,25 @@ message expliquant la réussite de la déconnexion.
 .. figure:: deconnexion_message_ok.png
     
     Message de déconnexion réussie
+
+
+
+
+.. _tableau_de_bord:
+
+***************
+Tableau de bord
+***************
+
+Le tableau de bord est composé de plusieurs blocs d'informations appelés widget qui permettent à l'utilisateur de visualiser rapidement des informations transverses.
+
+.. image:: tableau-de-bord-exemple.png
+
+La disposition des widgets est propre à chaque profil et peut être modifiée très facilement par l'administrateur. Il est donc possible pour les services de modifier la disposition (suppression de widget / déplacement de widget).
+
+
+=======
+Widgets
+=======
+
+
