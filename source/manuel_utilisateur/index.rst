@@ -8,7 +8,6 @@ Manuel de l'utilisateur
     :numbered:
 
     preambule/index.rst
-    avant_de_commencer/index.rst
     utilisateur_saisies/index.rst
     consultation/index.rst
     editions/index.rst

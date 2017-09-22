@@ -4,6 +4,11 @@
 Saisies
 #######
 
+
+.. figure:: menu-rubrik-saisie.png
+
+   Menu - Rubrique 'Saisie Électeur'
+
 .. toctree::
 
    inscription.rst

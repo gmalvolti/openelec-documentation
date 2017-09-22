@@ -4,6 +4,10 @@
 Découpage
 #########
 
+.. figure:: menu-rubrik-decoupage.png
+
+   Menu - Rubrique 'Découpage'
+
 Le découpage inclut plusieurs notions: le canton, le bureau, la voie.
 Chaque bureau appartient à un canton, et chaque voie appartient à un bureau
 d'un numéro de cette voie à un autre numéro. Cela permet lorsque toutes les

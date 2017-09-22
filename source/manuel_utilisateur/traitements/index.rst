@@ -4,6 +4,10 @@
 Traitements
 ###########
 
+.. figure:: menu-rubrik-traitement.png
+
+   Menu - Rubrique 'Traitement'
+
 .. toctree::
 
    module_commission.rst

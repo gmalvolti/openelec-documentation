@@ -4,6 +4,10 @@
 Paramétrage
 ###########
 
+.. figure:: menu-rubrik-parametrage.png
+
+   Menu - Rubrique 'Paramétrage'
+
 Tous les paramétrages se font par l’intermédiaire de formulaires. Dans
 l’optique openMairie, l’application présente un tableau permettant de choisir
 l’enregistrement à modifier ou à supprimer, ou de créer un nouvel
