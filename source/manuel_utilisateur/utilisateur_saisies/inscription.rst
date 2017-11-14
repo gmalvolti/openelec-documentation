@@ -35,17 +35,6 @@ les nouveaux inscrits.
 Saisie des informations
 =======================
 
-.. note::
-
-   Le formulaire de saisie d'inscription comporte des zones de corrélations qui
-   permettent de faire correspondre deux zones de saisies. Prenons exemple de
-   l'adresse dans la commune, si dans le champs de droite, vous saisissez
-   "Boulevard" et cliquez ensuite sur la flèche à gauche de votre saisie, une
-   fenêtre s'ouvrira, vous proposant tous les boulevards de la Commune.
-
-   .. figure:: correlation_par_fleche.png
-
-
 Le formulaire permet de saisir différentes informations sur le nouvel inscrit :
 
 * **Mouvement & Bureau**
