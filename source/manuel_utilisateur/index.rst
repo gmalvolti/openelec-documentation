@@ -16,5 +16,4 @@ Manuel de l'utilisateur
     decoupage/index.rst
     administration/index.rst
     module_multi/index.rst
-    fiches_pratiques/index.rst
     faq/index.rst
