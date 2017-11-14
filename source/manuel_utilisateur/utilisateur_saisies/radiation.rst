@@ -22,9 +22,14 @@ Une fois que le résultat de la recherche s'affiche, vous pouvez voir une
 croix rouge devant le nom de l'électeur. Il suffit de cliquer dessus pour
 obtenir le formulaire de radiation.
 
-.. figure:: recherche_electeur_pour_radiation.png
+.. figure:: saisie_radiation_recherche.png
 
-    Recherche d'un électeur en vue d'une radiation
+    Formulaire de recherche d'un électeur en vue d'une radiation
+
+.. figure:: saisie_radiation_recherche_resultats.png
+
+    Résultat de recherche d'un électeur en vue d'une radiation
+
 
 Saisie des informations
 =======================
@@ -59,6 +64,6 @@ Attention! Ce n'est pas parce que l'électeur est radié qu'il n'est plus
 présent sur la liste électorale, il faut d'abord que la commision valide la
 radiation pour que le traitement le supprime de la liste.
 
-.. figure:: radiation_d_un_electeur.png
+.. figure:: saisie_radiation_form.png
 
     Radiation d'un électeur
