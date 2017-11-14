@@ -39,8 +39,10 @@ Cette section vous permet d'effectuer des traitements, éditions et exports d'un
 	* **Première étape :** Choix de la ou des collectivité(s) depuis la liste. (Maintenir la touche [Ctrl] du clavier pour le choix multiple.)
 	* **Deuxième étape :** Choix du traitement parmis la liste déroulante.
 
-  .. image:: traitement_multi_collectivite_step_1_2.png
-  
+  .. image:: traitement_multi_collectivite_step_1.png
+
+  .. image:: traitement_multi_collectivite_step_2.png
+
 *Figure 35 : « Traitement multi-collectivités »*
 
 	* **Troisième et quatrième étape :** Confirmer et voir le traitement.
