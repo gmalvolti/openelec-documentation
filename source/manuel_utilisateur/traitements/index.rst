@@ -4,7 +4,7 @@
 Traitements
 ###########
 
-.. figure:: menu-rubrik-traitement.png
+.. figure:: a_menu-rubrik-traitement.png
 
    Menu - Rubrique 'Traitement'
 

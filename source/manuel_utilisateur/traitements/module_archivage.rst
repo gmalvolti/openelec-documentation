@@ -2,6 +2,14 @@
 Module Archivage
 ################
 
+Le module Archivage est accessible via le menu
+(:menuselection:`Traitement --> Archivage`).
+
+.. image:: a_module_archivage_menu.png
+
+.. contents::
+
+
 Préambule
 ---------
 
@@ -10,7 +18,7 @@ Ils sont déplacés vers une table archive qu'il est possible de consulter
 depuis la rubrique " Consultation -> Archive ". Ce traitement supprime
 les mouvements de la date de tableau en cours et les archive.
 
-.. figure:: module_archivage.png
+.. figure:: a_module_archivage.png
 
     Ecran du module : Archivage
 

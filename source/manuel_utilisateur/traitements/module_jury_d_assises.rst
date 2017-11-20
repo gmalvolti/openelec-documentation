@@ -2,15 +2,23 @@
 Module Jury d'Assises
 #####################
 
+Le module Jury d'Assises est accessible via le menu
+(:menuselection:`Traitement --> Jury d'Assises`).
+
+.. image:: a_module_jury_d_assises_menu.png
+
+.. contents::
+
+
 Préambule
 ---------
 
 Les jurés d'assises peuvent être gérés par le logiciel pour faire le tirage
 aléatoire, et sortir les étiquettes ou le listing. Vous pouvez aussi modifier
 manuellement les informations de juré d'assises d'un électeur directement
-depuis la rubrique " Saisie -> Carte en retour / Jure ". 
+depuis la rubrique " Saisie -> Carte en retour / Jure ".
 
-.. figure:: module_jury_d_assises.png
+.. figure:: a_module_jury_d_assises.png
 
     Ecran du module : Jury d'Assises
 
@@ -25,7 +33,7 @@ de crayon) pour accéder au formulaire de modification.
 Insérez le nombre de juré choisi et cliquez sur le bouton " Modifier "
 pour enregistrer les changements.
 
-.. figure:: module_jury_d_assises_parametrage_collectivite.png
+.. figure:: a_module_jury_d_assises_parametrage_collectivite.png
 
     Rubrique Parametrage : Collectivite
 
@@ -59,6 +67,6 @@ Enfin remplissez la section " Juré d'assises ". Le champ " Date préfecture "
 correspond à la date à laquelle la préfecture a donné son accord pour la
 sélection de cet électeur.
 
-.. figure:: module_jury_d_assises_jure_effectif.png
+.. figure:: a_module_jury_d_assises_jure_effectif.png
 
     Rubrique Saisie : Carte en retour / Jure

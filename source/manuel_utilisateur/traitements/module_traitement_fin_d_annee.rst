@@ -4,6 +4,14 @@
 Module Traitement Annuel
 ########################
 
+Le module Traitement Annuel est accessible via le menu
+(:menuselection:`Traitement --> Traitement Annuel`).
+
+.. image:: a_module_traitement_fin_d_annee_menu.png
+
+.. contents::
+
+
 Présentation
 ============
 
@@ -26,7 +34,7 @@ préparation de la commission, telle que cela a été vu précédemment. D'autre
 part, l'édition des mouvements annuels par bureau sera aussi éditée. Pour
 ce faire rendez-vous dans la rubrique " Edition / Révision électorale ".
 
-.. figure:: module_traitement_fin_d_annee_edition_parbureau.png
+.. figure:: a_module_traitement_fin_d_annee_edition_parbureau.png
 
     Rubrique Edition : Par bureau
 
@@ -40,7 +48,7 @@ Validation du traitement du 10 janvier
 Les traitements de validation sont accessibles depuis la rubrique
 " Traitement / Traitement Fin D'annee ".
 
-.. figure:: module_traitement_fin_d_annee.png
+.. figure:: a_module_traitement_fin_d_annee.png
 
     Ecran du module : Traitement Annuel
 
@@ -75,15 +83,12 @@ Clôture du traitement du 10 janvier
 ===================================
 
 Les traitements sont terminés. On modifie alors la date du prochain tableau
-pour la passer au 28 février de l'année en cours. Cela se fait à partir du tableau de bord, il suffit de cliquer sur la date de tableau et la changer.
+pour la passer au 28 février de l'année en cours. Cela se fait à partir du
+tableau de bord, il suffit de cliquer sur la date de tableau et la changer.
 
-.. figure:: module_traitement_fin_d_annee_parametrage_tableau.png
-
-    Rubrique Parametrage : Collectivite
-
-Cliquez sur le bouton modifier (représenté par l'icone de crayon) pour
-accéder au formulaire d'édition de la collectivité. Remplacez la date
-de tableau puis valider à l'aide du bouton " Modifier ".
+:ref:`cf. La date de tableau.<la_date_de_tableau>`
 
 Cette procédure de traitement de fin d'année s'applique également au
 tableau du 28 février.
+
+

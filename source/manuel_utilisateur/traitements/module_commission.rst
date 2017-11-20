@@ -2,6 +2,14 @@
 Module Commissions
 ##################
 
+Le module Commission est accessible via le menu
+(:menuselection:`Traitement --> Commission`).
+
+.. image:: a_module_commission_menu.png
+
+.. contents::
+
+
 Préambule
 =========
 
@@ -33,7 +41,7 @@ Dans le cadre " Edition Des Mouvements A Presenter (rupture Par Bureau) " :
     * saisir dans la " Date de fin " la date du dernier jour cloturé précédent la commission. Ne jamais saisir une journée en cours : des mouvements ne seraient pas présentés en commission !
     * cliquer sur le lien " Telecharger l'edition des mouvements entre deux dates ". Imprimer le résultat.
 
-.. figure:: module_commission.png
+.. figure:: a_module_commission.png
 
     Écran du module : Commissions
 
@@ -41,7 +49,7 @@ Dans le cadre " Edition Des Mouvements A Presenter (rupture Par Bureau) " :
 Saisie des membres de la commission
 ===================================
 
-.. figure:: module_commission_membres.png
+.. figure:: a_module_commission_membres.png
 
     Membres des commissions
 
@@ -52,7 +60,7 @@ Convocation des membres à la commission
 
 Une fois les membres saisie il est possible de générer un fichier au format pdf contenant un courrier de convocation pour chacun d'eux.
 
-.. figure:: module_commission_convocation.png
+.. figure:: a_module_commission_convocation.png
 
     Édition du courrier de convocation
 
@@ -77,13 +85,9 @@ Vous pouvez accédez respectivement aux tableaux des mouvements
 d'inscription, de modification et de radiation directement
 depuis l'écran du module de commission.
 
-.. figure:: module_commission_boutons.png
+.. figure:: a_module_commission_boutons.png
 
-    Raccourci d'accès aux mouvements
+    Raccourci d'accès aux listings des mouvements
 
-Une fois l'électeur concerné trouvé, cliquez sur la croix rouge à gauche
-du mouvement pour supprimer ce dernier.
+Depuis la fiche du mouvement concerné, il est possible de supprimer ce dernier.
 
-.. figure:: module_commission_mouvements.png
-
-    Mouvements de modification
