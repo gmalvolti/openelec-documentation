@@ -20,13 +20,13 @@ permet de saisir le nom et/ou la date de naissance de l'électeur à inscrire
 pour vérifier qu'il n'est pas déjà présent dans la liste électorale ou dans
 les nouveaux inscrits.
 
-.. figure:: saisie_inscription_recherche.png
+.. figure:: a_saisie_inscription_recherche.png
 
    Formulaire de recherche de doublon avant la saisie d'une inscription
 
 * Dans le cas d'une correspondance avec un électeur déjà inscrit : il peut s'agir d'un homonyme.
 
-.. figure:: saisie_inscription_doublon.png
+.. figure:: a_saisie_inscription_doublon.png
 
     Vérification des doublons avant la saisie d'une inscription
 
@@ -108,7 +108,7 @@ signalent qu'il est actif ou non, le numéro de la liste ainsi que la date du
 tableau. Ce sont des informations importantes comme le dit le préambule de cet
 article.
 
-.. figure:: saisie_inscription_form.png
+.. figure:: a_saisie_inscription_form.png
 
     Saisie d'une nouvelle inscription
 

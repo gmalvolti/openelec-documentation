@@ -30,11 +30,11 @@ s'affiche, vous pouvez voir une icône de modification devant le nom de
 l'électeur. Il suffit de cliquer dessus pour obtenir le formulaire de
 modification.
 
-.. figure:: saisie_modification_recherche.png
+.. figure:: a_saisie_modification_recherche.png
 
     Formulaire de recherche d'un électeur en vue d'une modification
 
-.. figure:: saisie_modification_recherche_resultats.png
+.. figure:: a_saisie_modification_recherche_resultats.png
 
     Résultat de recherche d'un électeur en vue d'une modification
 
@@ -104,7 +104,7 @@ modifier :
 
 	* Observation : *C'est une information sur l'inscription de l'électeur.*
 
-.. figure:: saisie_modification_form.png
+.. figure:: a_saisie_modification_form.png
 
     Modification d'un électeur
 

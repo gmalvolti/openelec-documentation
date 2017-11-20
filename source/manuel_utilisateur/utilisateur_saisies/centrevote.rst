@@ -26,7 +26,7 @@ Date de début et de fin de validité
     * Possibilité de saisir : 250605 => 25/06/2006.
     * Possibilité de saisir : 25062005 => 25/06/2005.
 
-.. figure:: saisie_centre_de_vote.png
+.. figure:: a_saisie_centre_de_vote.png
 
     Rubrique Saisie : Centre de Vote
 

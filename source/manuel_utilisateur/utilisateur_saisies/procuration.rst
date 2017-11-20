@@ -15,7 +15,7 @@ Saisie des informations
 
    Le formulaire de saisie de procuration comporte des zones de corrélations qui permettent de faire correspondre deux zones de saisies. La saisie du nom du mandataire, par exemple, permettra de retrouver son numéro d'électeur en cliquant sur la flèche de gauche.
 
-.. figure:: saisie_procuration.png
+.. figure:: a_saisie_procuration.png
 
     Saisie d'une procuration
 

@@ -4,7 +4,7 @@
 Administration
 ##############
 
-.. figure:: menu-rubrik-administration.png
+.. figure:: a_menu-rubrik-administration.png
 
    Menu - Rubrique 'Administration'
 
@@ -14,7 +14,7 @@ Gestion des utilisateurs
 
 Ce paramétrage permet de créer, modifier ou supprimer des utilisateurs.
 
-.. figure:: parametrage_utilisateurs.png
+.. figure:: a_parametrage_utilisateurs.png
 
     Gestion des utilisateurs
 

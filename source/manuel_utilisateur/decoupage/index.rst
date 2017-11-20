@@ -4,7 +4,7 @@
 Découpage
 #########
 
-.. figure:: menu-rubrik-decoupage.png
+.. figure:: a_menu-rubrik-decoupage.png
 
    Menu - Rubrique 'Découpage'
 
@@ -26,11 +26,11 @@ En cliquant sur le + on ajoute, une association (ex : rue de la république
 du n°1 à 500 => bureau 1, du n°501 à 1000 > bureau 2), on peut modifier ou
 supprimer comme tous les paramétrages précédents.
 
-.. figure:: decoupage_voie.png
+.. figure:: a_decoupage_voie.png
 
     Rubrique Decoupage : Voie
 
 
-.. figure:: decoupage_voie_affection_bureau.png
+.. figure:: a_decoupage_voie_affection_bureau.png
 
     Rubrique Decoupage : Découpage

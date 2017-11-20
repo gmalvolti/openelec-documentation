@@ -23,7 +23,7 @@ L’électeur doit être saisi :
 
 Ensuite il faut faire la saisie de la mairie européenne.
 
-.. figure:: saisie_mairie_europe.png
+.. figure:: a_saisie_mairie_europe.png
 
     Rubrique Saisie : Mairie Europe
 

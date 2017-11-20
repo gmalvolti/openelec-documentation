@@ -87,8 +87,8 @@ et l'objectif de chacun de ces composants. Cette structuration de l'application
 permet donc à l’utilisateur de toujours trouver les outils au même endroit
 et de se repérer rapidement.
 
-.. figure:: ergonomie_generale_detail.png
-    
+.. figure:: a_ergonomie_generale_detail.png
+
     Ergonomie générale
 
 .. note::
@@ -106,8 +106,8 @@ Le logo
 C'est le logo de l'application, il vous permet en un seul clic de revenir
 rapidement au tableau de bord.
 
-.. figure:: ergonomie_logo.png
-    
+.. figure:: a_ergonomie_logo.png
+
     Logo
 
 ========================
@@ -126,8 +126,8 @@ est disponible sur cette information pour permettre de changer de liste.
 Enfin l'action pour permettre de changer de mot de passe et pour se déconnecter
 sont disponibles en permanence.
 
-.. figure:: ergonomie_actions_personnelles.png
-    
+.. figure:: a_ergonomie_actions_personnelles.png
+
     Actions personnelles
 
 ==============
@@ -139,8 +139,8 @@ avons besoin d'accéder très souvent. Par exemple, ici nous avons des
 raccourcis directs vers les formulaires d'inscription, de modification et de
 radiation d'un électeur ainsi qu'un lien vers le tableau de bord.
 
-.. figure:: ergonomie_raccourcis.png
-    
+.. figure:: a_ergonomie_raccourcis.png
+
     Raccourcis
 
 =======
@@ -153,10 +153,10 @@ rubriques. En cliquant sur l'entête de rubrique, nous accédons à la liste des
 
 Le nombre de rubriques disponibles dans le menu peut varier en fonction du
 profil des utilisateurs. Un utilisateur ayant le profil Consultation n'aura
-probablement pas accès aux six rubriques présentes sur cette capture. 
+probablement pas accès aux six rubriques présentes sur cette capture.
 
-.. figure:: ergonomie_menu.png
-    
+.. figure:: a_ergonomie_menu.png
+
     Menu
 
 
@@ -168,8 +168,8 @@ Cet élément permet d'afficher en permanence le numéro de version du logiciel.
 Ensuite les différentes actions sont des liens vers le site officiel du
 logiciel ou vers la doucmentation.
 
-.. figure:: ergonomie_actions_globales.png
-    
+.. figure:: a_ergonomie_actions_globales.png
+
     Actions globales
 
 
@@ -213,7 +213,7 @@ Saisie des informations de connexion
 
 Cet écran de connexion est composé de deux zones de texte et d'un bouton.
 
-.. figure:: connexion_formulaire.png
+.. figure:: a_connexion_formulaire.png
 
     Formulaire de connexion
 
@@ -232,7 +232,7 @@ Connexion échouée
 Si les identifiants saisis sont incorrects, un message d'erreur apparaît et il
 faut ressaisir les informations de connexion.
 
-.. figure:: connexion_message_erreur.png
+.. figure:: a_connexion_message_erreur.png
 
     Message de connexion échouée
 
@@ -243,8 +243,8 @@ Connexion réussie
 Si les identifiants sont corrects, vous êtes redirigé vers la page demandée sur
 laquelle le message suivant doit d'afficher.
 
-.. figure:: connexion_message_ok.png
-    
+.. figure:: a_connexion_message_ok.png
+
     Message de connexion réussie
 
 
@@ -259,15 +259,15 @@ via votre compte utilisateur.
 L'action "Déconnexion" est disponible à tout moment dans les actions
 personnelles en haut à droite de l'écran.
 
-.. figure:: deconnexion_action.png
+.. figure:: a_deconnexion_action.png
 
    Action "Déconnexion" dans la barre d'actions personnelles
 
 Une fois déconnecté, c'est le formulaire de donnexion qui s'affiche avec un
 message expliquant la réussite de la déconnexion.
 
-.. figure:: deconnexion_message_ok.png
-    
+.. figure:: a_deconnexion_message_ok.png
+
     Message de déconnexion réussie
 
 
@@ -281,7 +281,7 @@ Tableau de bord
 
 Le tableau de bord est composé de plusieurs blocs d'informations appelés widget qui permettent à l'utilisateur de visualiser rapidement des informations transverses.
 
-.. image:: tableau-de-bord-exemple.png
+.. image:: a_tableau-de-bord-exemple.png
 
 La disposition des widgets est propre à chaque profil et peut être modifiée très facilement par l'administrateur. Il est donc possible pour les services de modifier la disposition (suppression de widget / déplacement de widget).
 
@@ -302,7 +302,7 @@ Widgets
 **************************************
 Les droits et profils des utilisateurs
 **************************************
-  
+
 Chaque utilisateur est associé à un profil. Le profil est le niveau de droits
 de l'utilisateur, dans la configuration par défaut d'openElec, il existe cinq
 profils :
@@ -359,7 +359,7 @@ Cette information est en permanence affichée à l'écran, sur la droite, en hau
 de la page à côté du login. Cela permet de savoir en un coup d'oeil sur quelle
 liste on est en train de travailler.
 
-.. figure:: liste_en_cours.png
+.. figure:: a_liste_en_cours.png
 
     Liste en cours
 
@@ -369,7 +369,7 @@ Modifier la liste en cours
 ==========================
 
 Pour modifier la liste, il suffit de cliquer sur la liste. Une liste de choix
-nous permet de sélectionner la liste sur laquelle on veut travailler. 
+nous permet de sélectionner la liste sur laquelle on veut travailler.
 
 .. _la_date_de_tableau:
 
@@ -395,7 +395,7 @@ Consulter la date tableau
 
 Pour consulter la date tableau, il suffit d'accéder au tableau de bord de l'application. La date de tableau y est affichée.
 
-.. figure:: consultation_de_la_date_de_tableau.png
+.. figure:: a_consultation_de_la_date_de_tableau.png
 
     Consultation de la date de tableau
 
@@ -405,6 +405,6 @@ Modifier la date tableau
 
 Pour modifier la date de tableau en cours, il suffit de cliquer sur la date de tableau affichée sur le tableau de bord, de la modifier et ensuite valider la modification.
 
-.. figure:: modifier_la_date_de_tableau.png
+.. figure:: a_modifier_la_date_de_tableau.png
 
     Modifier la date de tableau

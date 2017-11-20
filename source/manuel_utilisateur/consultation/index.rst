@@ -4,7 +4,7 @@
 Consultation
 ############
 
-.. figure:: menu-rubrik-consultation.png
+.. figure:: a_menu-rubrik-consultation.png
 
    Menu - Rubrique 'Consultation'
 
@@ -17,7 +17,7 @@ Lorsque cela est possible vous trouverez également à gauche de chaque
 comme l'ajout d'un nouvel électeur, la modification, la suppresion ou
 encore l'édition de son attestation d'inscription
 
-.. figure:: consultation.png
+.. figure:: a_consultation.png
 
     Liste des électeurs : Centre de vote
 
@@ -25,9 +25,9 @@ Consultation de la fiche de l'électeur
 ---------------------------------------
 
 Lorsque vous effectuez une recherche d'électeur par le menu Consultation - Liste électorale, il est possible, en cliquant sur le nom de l'électeur d'accéder à sa fiche.
-Cette fiche regroupe l'ensemble des informations concernant l'électeur (état civil, adresse, bureau de vote), l'historique des mouvements appliqués et/ou en cours. 
+Cette fiche regroupe l'ensemble des informations concernant l'électeur (état civil, adresse, bureau de vote), l'historique des mouvements appliqués et/ou en cours.
 Il vous ai aussi possible d'imprimer sa carte d'électeur, une attestation, effectuer un retour de carte mais aussi saisir un mouvement (radiation, modification)
 
-.. figure:: consultation_fiche_electeur.png
+.. figure:: a_consultation_fiche_electeur.png
 
      Consultation fiche d'un électeur

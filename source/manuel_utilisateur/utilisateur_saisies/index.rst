@@ -5,7 +5,7 @@ Saisies
 #######
 
 
-.. figure:: menu-rubrik-saisie.png
+.. figure:: a_menu-rubrik-saisie.png
 
    Menu - Rubrique 'Saisie Électeur'
 

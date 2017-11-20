@@ -4,7 +4,7 @@
 Paramétrage
 ###########
 
-.. figure:: menu-rubrik-parametrage.png
+.. figure:: a_menu-rubrik-parametrage.png
 
    Menu - Rubrique 'Paramétrage'
 
@@ -24,14 +24,14 @@ non au CNEN, si la carte d'électeur doit être imprimé à la suite de ce
 mouvement ou non. L'ajout, modification ou suppression de ces paramètres se
 fait de la même manière que le paramétrage des utilisateurs.
 
-.. figure:: parametrage_mouvements.png
+.. figure:: a_parametrage_mouvements.png
 
     Rubrique Parametrage : Mouvements
-    
+
 Paramétrage des mouvements pour import radiations INSEE
 -------------------------------------------------------
 
-Un paramétrage correct des types de mouvements permet de sélectionner de manière automatique le motif de radiation 
+Un paramétrage correct des types de mouvements permet de sélectionner de manière automatique le motif de radiation
 en fonction des données transmises par l'INSEE, lors de la validation de la demande de radiation.
 
 Lorsque vous recevez les radiations INSEE, le motif de radiation est inscrit sous forme de numéro :
@@ -47,6 +47,6 @@ Lorsque vous recevez les radiations INSEE, le motif de radiation est inscrit sou
 * 8 - condamnation privative de la capacité électorale
 * 9 - perte de nationalité française
 
-Il suffira donc de choisir le mouvement et cocher la case du chiffre qui correspond au mouvement. Par exemple 
+Il suffira donc de choisir le mouvement et cocher la case du chiffre qui correspond au mouvement. Par exemple
 le mouvement "DECES INSEE" correspond au chiffre 1.
 
