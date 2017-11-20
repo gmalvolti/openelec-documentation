@@ -198,7 +198,7 @@ Navigateur Web
 L'application est accessible via un navigateur Web, pour y accéder il faut
 saisir l'adresse Web fournie par votre administrateur dans la barre d'adresse.
 
-.. figure:: connexion_navigateur.png
+.. figure:: m_connexion_navigateur.png
 
     Saisie d'adresse dans un navigateur Web
 
@@ -326,7 +326,7 @@ d'accéder aux informations.
 L'année électorale
 ******************
 
-.. figure:: annee_electorale.png
+.. figure:: m_annee_electorale.png
 
     Année électorale
 
