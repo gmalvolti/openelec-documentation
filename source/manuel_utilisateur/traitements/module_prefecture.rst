@@ -52,7 +52,7 @@ générée est celle qui concerne la liste en cours.
 La section 'Derniers Exports' présente les dix derniers fichiers qui ont été
 générés. Le dernier apparaît en premier dans la liste. Si aucun fichier n'a
 encore été généré alors aucun élément n'apparaît. Le lien vers le fichier
-"Liste P du 12/02/2014 12:26:07 [xml]" comporte :
+"Liste P du 12/02/2018 12:26:07 [xml]" comporte :
 
 * Le type de liste : "Liste P" correspond à la liste principale, "Liste CE"
   correspond à la liste complémentaire européenne, "Liste CM" correspond à
