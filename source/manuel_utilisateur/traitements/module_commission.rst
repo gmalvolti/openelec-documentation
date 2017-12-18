@@ -21,7 +21,7 @@ est signée et conservée à titre d’archives.
 
 Pré-requis pour utiliser le module Commissions :
 
-    * l’utilisateur qui effectue le travail de préparation de la commission doit avoir le droit " administrateur ".
+    * l’utilisateur qui effectue le travail de préparation de la commission doit avoir le droit " super utilisateur ".
 
     * les mouvements (inscriptions, modifications, radiations) doivent avoir été préalablement saisis dans openElec.
 
