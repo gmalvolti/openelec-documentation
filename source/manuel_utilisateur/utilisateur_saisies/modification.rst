@@ -70,9 +70,9 @@ modifier :
 
 	* Date de naissance : *Il suffit de cliquer sur le calendrier pour sélectionner une date de naissance ou alors saisir cette date dans le champ dans un des formats suivants : "20121975" ou "20/12/1975".*
 
-	* Département : *C'est le département ou le pays de naissance de l'électeur, là encore il y a plusieurs possibilités de saisie: soit le code insee du département ou du pays dans le champ de gauche et ensuite on clique sur la flèche qui va de gauche à droite pour voir s'afficher le nom dans le champ de droite, soit on saisi le libellé ou une partie du département ou du pays de naissance dans le champ de droite et on clique sur la flèche qui va de droite à gauche pour voir s'afficher le code insee dans le champ de gauche.*
+	* Département et lieu de naissance : *il est possible de saisir le département et la ville de naissance, ou bien la ville de naissance et le département s'affichera automatiquement*
 
-	* Lieu de naissance : *La ville où l'électeur est né, ici deux cas se présentent : soit l'électeur est né en France, et il y a deux modes de saisie: le code insee de la commune dans le champ de gauche (exemple "13 004" pour ARLES, il est composé du code département, d'un espace et du code de la commune dans le département), ou le libellé de la commune dans le champ de droite comme pour le département. Soit l'électeur n'est pas né en France, il faut resaisir le code du pays dans le code commune (champ de gauche) et saisir un libellé dans le champ de droite.*
+	* Né à l'étranger : *si l'électeur est né à l'étranger, cliquer sur la case "né(e) à l'étranger, ensuite renseigner le pays et la case dans la case du dessous (attention texte libre)*
 
 	* Nationalité : *Nationalité de l'électeur.*
 
@@ -82,9 +82,11 @@ modifier :
 
 	* Complément : *C'est le complément du numéro d'habitation par exemple "bis", "ter", etc... Il faut faire son choix dans la liste de choix en dessous du champ n°, si il n'y a pas de complément sélectionner "Sans".*
 
-	* Id/Libellé Voie : *C'est la rue ou habite l'électeur. Il y a deux modes de saisie, soit en saisissant le code de la voie dans le champ de gauche (c'est le code interne au logiciel qui permet de répertorier les rues) puis en cliquant sur la flèche qui va de gauche à droite pour voir s'afficher le libellé de la rue dans le champ de droite, soit en tapant le libellé de la voie dans le champ de droite puis en cliquant sur la flèche qui va de droite à gauche pour voir s'afficher le code de la voie. Il faut absolument que la rue soit connue par le logiciel, c'est-à-dire qu'elle soit dans la table voie, c'est-à-dire que la rue soit déjà créée pour que la modification soit valide.*
+	* Id/Libellé Voie : *C'est la rue ou habite l'électeur. Il y a deux modes de saisie, soit en saisissant le code de la voie (c'est le code interne au logiciel qui permet de répertorier les rues), soit en tapant le libellé de la voieIl faut absolument que la rue soit connue par le logiciel, c'est-à-dire qu'elle soit dans la table voie, c'est-à-dire que la rue soit déjà créée pour que l'inscription soit valide.*
 
 	* Complément : *Cest le champ au dessous du libellé de la voie il permet de stocker des informations complémentaires sur l'adresse de l'électeur. Attention ces informations apparaîtront sur les cartes d'électeur et sur les étiquettes de propagande.*
+
+
 
 * **Résident**
 
