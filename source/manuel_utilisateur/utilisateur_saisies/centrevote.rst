@@ -11,20 +11,16 @@ de la table électeur est mise à jour par le traitement.
 
 Saisie des informations
 =======================
-.. note::
-
-   Le formulaire de saisie d'un électeur inscrit en centre de vote comporte une zone de corrélation qui permet de faire correspondre deux zones de saisies. La saisie du nom de l'électeur, permettra de retrouver son numéro d'électeur en cliquant sur la flèche de gauche.
 
 Vous devez saisir l’électeur:
 
-    * soit en tapant l’ID électeur et en appuyant sur la flèche,
-    * soit en tapant une partie ou l’intégralité du nom, ou la date de naissance.
+    * soit en tapant l’ID électeur, soit en tapant une partie ou l’intégralité du nom, ou une partie de son nom et une partie de son prénom.
 
 Date de début et de fin de validité
 
     * Possibilité de saisir à l’aide du calendrier.
-    * Possibilité de saisir : 250605 => 25/06/2006.
-    * Possibilité de saisir : 25062005 => 25/06/2005.
+    * Possibilité de saisir : 2506018 => 25/06/2018.
+    * Possibilité de saisir : 25062018 => 25/06/2018.
 
 .. figure:: a_saisie_centre_de_vote.png
 
