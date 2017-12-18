@@ -99,7 +99,7 @@ enfin, cliquer sur le bouton "fusionner les voies"
 Initialisation des électeurs en bureau forcé
 ********************************************
 
-Cet outil va vous permettre de retirer l'affection forcée d'un bureau sur tous les électeurs qui sont normalement affecté au bureau défini dans le découpage
+Cet outil va vous permettre de retirer l'affectation forcée d'un bureau sur tous les électeurs qui sont normalement affecté au bureau défini dans le découpage
 Aucun mouvement de modification ne sera effectué puisque l'électeur ne change pas de bureau.
 Pour ce faire, cliquer sur le bouton "initiliser les électeurs en bureau forcé"
 
@@ -115,7 +115,7 @@ Initialisation de la table découpage
 
 Cet outil permet d'effectuer le découpage automatique de l'ensemble des voies qui n'auraient pas été découpées préalablement.
 Pour chaque voie, si les électeurs sont affectés à un seul bureau, openElec effectue le découpage automatiquement.
-Après avoir initilisé la table découpage en cliquant sur le bouton "initiliser la table découpage", les voies qui restent à découper manuellement sont éditées dans le pdf "aide à la saisie"
+Après avoir initilisé la table découpage en cliquant sur le bouton "initialiser la table découpage", les voies qui restent à découper manuellement sont éditées dans le pdf "aide à la saisie"
 
 (changer la figure)
 
