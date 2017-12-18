@@ -11,9 +11,6 @@ procuration de la table électeur est mise à jour par le traitement.
 
 Saisie des informations
 =======================
-.. note::
-
-   Le formulaire de saisie de procuration comporte des zones de corrélations qui permettent de faire correspondre deux zones de saisies. La saisie du nom du mandataire, par exemple, permettra de retrouver son numéro d'électeur en cliquant sur la flèche de gauche.
 
 .. figure:: a_saisie_procuration.png
 
