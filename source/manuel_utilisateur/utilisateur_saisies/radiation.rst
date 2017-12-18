@@ -6,9 +6,9 @@ Préambule
 =========
 
 Avant de procéder à une radiation, il faut vérifier que certains paramètres
-sont correctement réglés :
+soient correctement réglés :
 
-* La date de tableau : il faut que cette date soit réglée à la date du prochain tableau, c'est-à-dire au prochain traitement du calendrier électoral (le 10/01/2014 ou le 28/02/2014).
+* La date de tableau : il faut que cette date soit réglée à la date du prochain tableau, c'est-à-dire au prochain traitement du calendrier électoral (le 10/01/2018 ou le 28/02/2018).
 
 * La liste en cours : il faut que la liste électorale en cours soit celle sur laquelle vous voulez travailler (01 liste générale, 02 liste européenne, 03 liste européenne municipale).
 
@@ -67,5 +67,5 @@ Vérifiez bien que tout s'est déroulé correctement et cliquez sur le bouton
 en cours.
 
 Attention! Ce n'est pas parce que l'électeur est radié qu'il n'est plus
-présent sur la liste électorale, il faut d'abord que la commision valide la
+présent sur la liste électorale, il faut d'abord que la commission valide la
 radiation pour que le traitement le supprime de la liste.
