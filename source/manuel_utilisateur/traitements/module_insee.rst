@@ -306,9 +306,9 @@ Pour ce faire, allez dans la rubrique " Traitement / Insee ".
 
 Si vous avez déjà effectué votre traitement de fin d'année et changé la date
 de tableau, il vous faudra modifier la date de tableau. (Exemple, vous venez
-d'effectuer le traitement au 10/01/2009 et vous avez mis votre date de
-tableau au 28/02/2009 : vous devez tout d'abord changer votre date de
-tableau au 10/01/2009)
+d'effectuer le traitement au 10/01/2018 et vous avez mis votre date de
+tableau au 28/02/2018 : vous devez tout d'abord changer votre date de
+tableau au 10/01/2018)
 
 .. figure:: a_module_insee_export.png
 
