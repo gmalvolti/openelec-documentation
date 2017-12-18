@@ -263,7 +263,7 @@ personnelles en haut à droite de l'écran.
 
    Action "Déconnexion" dans la barre d'actions personnelles
 
-Une fois déconnecté, c'est le formulaire de donnexion qui s'affiche avec un
+Une fois déconnecté, c'est le formulaire de connexion qui s'affiche avec un
 message expliquant la réussite de la déconnexion.
 
 .. figure:: a_deconnexion_message_ok.png
