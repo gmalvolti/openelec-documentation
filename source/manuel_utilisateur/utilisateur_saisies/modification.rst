@@ -15,7 +15,7 @@ doit cliquer devant le nom de l'électeur à modifier.
 Avant de procéder à une modification, il faut vérifier que certains paramètres
 sont correctement réglés :
 
-* La date de tableau : il faut que cette date soit réglée à la date du prochain tableau, c'est-à-dire au prochain traitement du calendrier électoral (le 10/01/2014 ou le 28/02/2014).
+* La date de tableau : il faut que cette date soit réglée à la date du prochain tableau, c'est-à-dire au prochain traitement du calendrier électoral (le 10/01/2018 ou le 28/02/2018).
 
 * La liste en cours : il faut que la liste électorale en cours soit celle sur laquelle vous voulez travailler (01 liste générale, 02 liste européenne, 03 liste européenne municipale).
 
@@ -25,7 +25,7 @@ Recherche de l'électeur
 En premier lieu, il faut réaliser une recherche de l'électeur. Un formulaire
 permet de saisir le nom patronymique et/ou le nom d'usage/marital et/ou le
 prenom et/ou la date de naissance de l'electeur sur lequel vous souhaitez
-creer un mouvement de modification. Une fois que le résultat de la recherche
+créer un mouvement de modification. Une fois que le résultat de la recherche
 s'affiche, vous pouvez voir une icône de modification devant le nom de
 l'électeur. Il suffit de cliquer dessus pour obtenir le formulaire de
 modification.
