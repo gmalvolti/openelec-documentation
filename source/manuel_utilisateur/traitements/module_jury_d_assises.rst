@@ -14,7 +14,7 @@ Préambule
 ---------
 
 Les jurés d'assises peuvent être gérés par le logiciel pour faire le tirage
-aléatoire, et sortir les étiquettes ou le listing. Vous pouvez aussi modifier
+aléatoire et sortir les étiquettes ou le listing. Vous pouvez aussi modifier
 manuellement les informations de juré d'assises d'un électeur directement
 depuis la rubrique " Saisie -> Carte en retour / Jure ".
 
