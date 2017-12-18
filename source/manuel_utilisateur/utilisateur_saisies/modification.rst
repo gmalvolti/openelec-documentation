@@ -100,15 +100,7 @@ modifier :
 
 	* Ville : *Commune.*
 
-* **Provenance**
 
-	* Commune provenance : *Il faut saisir le code insee de la commune de provenance ou son libellé, uniquement si l'inscription était de type "changement de commune".*
-
-	* Observation : *C'est une information sur l'inscription de l'électeur.*
-
-.. figure:: a_saisie_modification_form.png
-
-    Modification d'un électeur
 
 Validation des informations
 ===========================
