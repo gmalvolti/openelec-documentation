@@ -12,14 +12,10 @@ La zone procuration de la table électeur est mise à jour par le traitement.
 
 Saisie des informations
 =======================
-.. note::
-
-   Le formulaire de saisie d'un électeur inscrit en Mairie Europe comporte une zone de corrélation qui permet de faire correspondre deux zones de saisies. La saisie du nom de l'électeur, permettra de retrouver son numéro d'électeur en cliquant sur la flèche de gauche.
 
 L’électeur doit être saisi :
 
-    * soit en tapant l’ID électeur et en appuyant sur la flèche,
-    * soit en tapant une partie ou l’intégralité du nom, ou la date de naissance.
+    * soit en tapant l’ID électeur, soit en tapant une partie ou l’intégralité du nom, soit en tapant une partie du nom et une partie du prénom.
 
 Ensuite il faut faire la saisie de la mairie européenne.
 
