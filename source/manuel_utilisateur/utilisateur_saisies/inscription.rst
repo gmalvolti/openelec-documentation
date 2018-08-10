@@ -66,7 +66,11 @@ Le formulaire permet de saisir différentes informations sur le nouvel inscrit :
 
 	* Département et lieu de naissance : *il est possible de saisir le département et la ville de naissance, ou bien la ville de naissance et le département s'affichera automatiquement*
 
-	* Né à l'étranger : *si l'électeur est né à l'étranger, cliquer sur la case "né(e) à l'étranger, ensuite renseigner le pays et la case dans la case du dessous (attention texte libre)*
+	* Electeur né en France : * Par défaut le selecteur est chargé avec la valeur "Né en France".*
+
+	* Electeur né à l'étranger : * Si l'électeur est né à l'étranger on sélectionne "Né à l'étranger" dans le sélecteur et les champs  Pays de naissance et Libellé commune de naissance s'affiche.*
+
+	* Electeur né dans un ancien département d'Algérie : * Si l'électeur est né dans un ancien département d'Algérie, on sélectionne "Né dans un ancien département d'Algérie" dans le selecteur. Les champs Département de naissance et Libellé commune de naissance s'affiche.*
 
 	* Nationalité : *Nationalité de l'électeur.*
 
