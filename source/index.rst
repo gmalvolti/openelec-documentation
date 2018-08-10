@@ -54,4 +54,5 @@ Contributeurs
 * Nicolas Haye
 * Sophie Lacroix
 * Jean-Yves Laugier
+* Grégory Malvolti
 * Florent Michon
