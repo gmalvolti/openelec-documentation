@@ -72,17 +72,21 @@ modifier :
 
 	* Département et lieu de naissance : *il est possible de saisir le département et la ville de naissance, ou bien la ville de naissance et le département s'affichera automatiquement*
 	
-	.. image:: a_saisie_inscription_france.png	
+	* Electeur né en France : *Par défaut le selecteur est chargé avec la valeur "Né en France". Le champs commune de naissance peut prendre un code de commune et/ou le nom d'une commune. Exemple : Arles 13, si la valeur existe elle s'affiche automatiquement et il suffit de cliquer dessus pour la valider*.
 
-	* Electeur né en France : * Par défaut le selecteur est chargé avec la valeur "Né en France".*
+	.. image:: a_saisie_inscription_france.png	
+	
+	* Electeur né à l'étranger : *Si l'électeur est né à l'étranger on sélectionne "Né à l'étranger" dans le sélecteur et les champs pays de naissance et libellé commune de naissance s'affichent. Le pays de naissance peut prendre un code de département et/ou un nom de département. Exemple : 99134 Royaume d'espagne si la valeur existe elle s'affiche automatiquement et il suffit de cliquer dessus pour la valider. La valeur de libellé commune est de type text*
 
 	.. image:: a_saisie_inscription_etranger.png
-	
-	* Electeur né à l'étranger : * Si l'électeur est né à l'étranger on sélectionne "Né à l'étranger" dans le sélecteur et les champs  Pays de naissance et Libellé commune de naissance s'affichent.*
+
+	* Electeur né dans un ancien département fraçais d'Algérie :*Si l'électeur est né dans un ancien département français d'Algérie, on sélectionne "Né dans un ancien département d'Algérie" dans le selecteur. Les champs département de naissance et libellé commune de naissance s'affichent. La valeur de libellé commune est de type text. Le département de naissance peut prendre un code de département et/ou un nom de département.Exemple : 91352 Alger si la valeur existe elle s'affiche automatiquement et il suffit de cliquer dessus pour la valider. Les valeurs existantes pour ce champs sont* : 
+		91352 - ALGER
+		92352 - ORAN
+		93352 - CONSTANTINE
+		94352 - TERRITOIRES DU SUD
 
 	.. image:: a_saisie_inscription_ancien_departement_francais.png
-
-	* Electeur né dans un ancien département fraçais d'Algérie : * Si l'électeur est né dans un ancien département d'Algérie, on sélectionne "Né dans un ancien département d'Algérie" dans le selecteur. Les champs Département de naissance et Libellé commune de naissance s'affichent.*
 
 	* Nationalité : *Nationalité de l'électeur.*
 
