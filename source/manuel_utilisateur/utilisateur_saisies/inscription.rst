@@ -73,11 +73,13 @@ Le formulaire permet de saisir différentes informations sur le nouvel inscrit :
 
 	.. image:: a_saisie_inscription_etranger.png
 
+
 	* Electeur né dans un ancien département fraçais d'Algérie :*Si l'électeur est né dans un ancien département français d'Algérie, on sélectionne "Né dans un ancien département d'Algérie" dans le selecteur. Les champs département de naissance et libellé commune de naissance s'affichent. La valeur de libellé commune est de type text. Le département de naissance peut prendre un code de département et/ou un nom de département.Exemple : 91352 Alger si la valeur existe elle s'affiche automatiquement et il suffit de cliquer dessus pour la valider. Les valeurs existantes pour ce champs sont* : 
-		91352 - ALGER
-		92352 - ORAN
-		93352 - CONSTANTINE
-		94352 - TERRITOIRES DU SUD
+		
+		- 91352 - ALGER
+		- 92352 - ORAN
+		- 93352 - CONSTANTINE
+		- 94352 - TERRITOIRES DU SUD
 
 	.. image:: a_saisie_inscription_ancien_departement_francais.png
 
