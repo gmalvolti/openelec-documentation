@@ -33,8 +33,8 @@ Cette section vous permet d'effectuer des traitements, éditions et exports d'un
 			* *Etiquettes*
 			* *Cartes Electorales*
 			* *Liste d'emargement*
-		* Exports
-			* *Fiches navettes*
+		* Divers
+			* *Envoi de courriels*
 
 	* **Première étape :** Choix de la ou des collectivité(s) depuis la liste. (Maintenir la touche [Ctrl] du clavier pour le choix multiple.)
 	* **Deuxième étape :** Choix du traitement parmis la liste déroulante.
