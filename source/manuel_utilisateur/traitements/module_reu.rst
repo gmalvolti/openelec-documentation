@@ -23,14 +23,12 @@ entre les communes et le Répertoire Électoral Unique.
 .. note::
 
    La commune reçoit un identifiant et un mot de passe par sa préfecture pour
-   accéder à la plate-forme du ministère de l'intérieur
-   https://www.insee.fr/fr/information/3539086
+   accéder à la plate-forme de l'INSEE https://repertoire-electoral.insee.fr/
 
-openElec se connecte directement à la plate-forme du minisitère de l'intérieur,
-la commune a simplement besoin de s'y connecter pour gérer les comptes
-utilisateurs (dont celui d'openElec). Pour le reste, les communes ne doivent
-absolument jamais se connecter à cette plate-forme pour modifier des informations
-sur les électeurs ou saisir des mouvements.
+openElec se connecte directement à cette plate-forme pour **TOUS** les échanges
+nécessaires à la gestion des listes électorales. La commune a simplement besoin
+de s'y connecter pour gérer les comptes utilisateurs (dont celui d'openElec).
+
 
 .. _module_reu_statut:
 
