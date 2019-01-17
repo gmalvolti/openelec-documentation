@@ -12,7 +12,5 @@ Manuel de l'utilisateur
     consultation/index.rst
     editions/index.rst
     traitements/index.rst
-    parametrage/index.rst
-    decoupage/index.rst
-    administration/index.rst
     module_multi/index.rst
+    administration_parametrage/index.rst
