@@ -1,8 +1,8 @@
 .. openelec documentation master file.
 
-========================================
-openElec 5.0 (non publiée) documentation
-========================================
+==========================
+openElec 5.1 documentation
+==========================
 
 .. note::
 
