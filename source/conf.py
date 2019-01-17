@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'openElec 5.0 (non publiée)'
-copyright = u'2004-2017, openMairie'
+project = u'openElec 5.0'
+copyright = u'2004-2019, openMairie'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
