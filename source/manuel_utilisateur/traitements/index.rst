@@ -11,6 +11,7 @@ Traitements
 .. toctree::
 
    module_commission.rst
+   module_reu.rst
    module_prefecture.rst
    module_election.rst
    module_traitement_j-5.rst
