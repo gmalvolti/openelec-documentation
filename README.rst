@@ -1,5 +1,5 @@
-Documentation openElec version 5.0 (non publiée)
-================================================
+Documentation openElec version 5.0
+==================================
 
 
 .. image:: http://readthedocs.org/projects/openelec/badge/?version=5.0
