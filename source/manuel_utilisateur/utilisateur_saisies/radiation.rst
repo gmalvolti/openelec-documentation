@@ -69,3 +69,12 @@ en cours.
 Attention! Ce n'est pas parce que l'électeur est radié qu'il n'est plus
 présent sur la liste électorale, il faut d'abord que la commission valide la
 radiation pour que le traitement le supprime de la liste.
+
+Onglet Pièce
+============
+
+Un onglet "Piece" est disponible dans les mouvements d'inscription, modification et radiation.
+
+Cet onglet permet de joindre des pièces au mouvement en question.
+
+:ref:`Pour plus de détails voir le mouvement d'inscription<onglet_piece>`

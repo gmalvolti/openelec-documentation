@@ -145,3 +145,47 @@ en cours.
 Attention! Ce n'est pas parce que l'électeur est inscrit, qu'il est présent
 sur la liste électorale, il faut d'abord que la commission valide l'inscription
 pour que le traitement l'intègre dans la liste.
+
+.. _onglet_piece:
+
+Onglet Pièce
+============
+
+
+.. image:: a_onglet_piece.png
+
+Un onglet "Piece" est disponible dans les mouvements d'inscription, modification et radiation.
+
+Cet onglet permet de joindre des pièces au mouvement en question.
+
+L'onglet "Piece" n'est diponible que lorsque le mouvement est enregistré. Pour y accéder il faut donc consulter le mouvement sur lequel on veut ajouter une pièce.
+
+
+
+**Saisi de la pièce**
+
+
+
+.. image:: a_onglet_piece_formulaire.png
+
+
+* Libellé
+
+	* C'est l'intitulé de la pièce à ajouter.
+
+* Piece_type
+
+	* Le champ piece_type est spécifie le type de pièce associé à la pièce ajoutée. 
+
+* Mouvement
+
+	* Affiche l'id du mouvement sur lequel la pièce est lié
+
+* Fichier
+
+	* Permet de joindre le fichier.
+
+.. note::
+
+   Attention : lors de l'archivage du mouvement les pièces jointes sont supprimées.
+

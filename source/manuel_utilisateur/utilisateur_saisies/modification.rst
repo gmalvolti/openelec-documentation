@@ -126,3 +126,12 @@ Vérifiez bien que tout s'est déroulé correctement et cliquez sur le bouton
 "Retour" (tout en bas du formulaire) pour consulter la liste des
 modifications en cours.
 
+
+Onglet Pièce
+============
+
+Un onglet "Piece" est disponible dans les mouvements d'inscription, modification et radiation.
+
+Cet onglet permet de joindre des pièces au mouvement en question.
+
+:ref:`Pour plus de détails voir le mouvement d'inscription<onglet_piece>`
