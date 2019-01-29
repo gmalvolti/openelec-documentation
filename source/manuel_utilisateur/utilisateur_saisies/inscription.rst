@@ -162,30 +162,30 @@ L'onglet "Piece" n'est diponible que lorsque le mouvement est enregistré. Pour 
 
 
 
-**Saisi de la pièce**
+**Saisie de la pièce**
 
 
 
 .. image:: a_onglet_piece_formulaire.png
 
 
+* Mouvement
+
+	* Affiche l'id du mouvement sur lequel la pièce est lié
+
 * Libellé
 
 	* C'est l'intitulé de la pièce à ajouter.
 
-* Piece_type
+* Type de pièce
 
-	* Le champ piece_type est spécifie le type de pièce associé à la pièce ajoutée. 
-
-* Mouvement
-
-	* Affiche l'id du mouvement sur lequel la pièce est lié
+	* Le champ type de pièce permet de spécifier le type de pièce associé à la pièce ajoutée. 
 
 * Fichier
 
 	* Permet de joindre le fichier.
 
-.. note::
+.. warning::
 
    Attention : lors de l'archivage du mouvement les pièces jointes sont supprimées.
 
