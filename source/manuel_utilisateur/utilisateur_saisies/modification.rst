@@ -127,10 +127,10 @@ Vérifiez bien que tout s'est déroulé correctement et cliquez sur le bouton
 modifications en cours.
 
 
-Onglet Pièce
-============
+Onglet Pièce(s)
+===============
 
-Un onglet "Piece" est disponible dans les mouvements d'inscription, modification et radiation.
+Un onglet "Pièce(s)" est disponible dans les mouvements d'inscription, modification et radiation.
 
 Cet onglet permet de joindre des pièces au mouvement en question.
 

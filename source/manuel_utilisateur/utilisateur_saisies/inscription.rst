@@ -148,17 +148,17 @@ pour que le traitement l'intègre dans la liste.
 
 .. _onglet_piece:
 
-Onglet Pièce
-============
+Onglet Pièce(s)
+===============
 
 
 .. image:: a_onglet_piece.png
 
-Un onglet "Piece" est disponible dans les mouvements d'inscription, modification et radiation.
+Un onglet "Pièce(s)" est disponible dans les mouvements d'inscription, modification et radiation.
 
 Cet onglet permet de joindre des pièces au mouvement en question.
 
-L'onglet "Piece" n'est diponible que lorsque le mouvement est enregistré. Pour y accéder il faut donc consulter le mouvement sur lequel on veut ajouter une pièce.
+L'onglet "Pièce(s)" n'est diponible que lorsque le mouvement est enregistré. Pour y accéder il faut donc consulter le mouvement sur lequel on veut ajouter une pièce.
 
 
 
