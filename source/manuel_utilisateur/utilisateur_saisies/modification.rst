@@ -130,7 +130,7 @@ modifications en cours.
 Onglet Pièce(s)
 ===============
 
-Un onglet "Pièce(s)" est disponible dans les mouvements d'inscription, modification et radiation.
+Un onglet "Pièce(s)" est disponible dans les mouvements d'inscription, de modification et de radiation.
 
 Cet onglet permet de joindre des pièces au mouvement en question.
 
