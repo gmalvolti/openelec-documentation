@@ -32,6 +32,8 @@ Divers paramètres de l’application sont configurables ici : champs de fusion 
 
 * **option_code_barre** : Affichage des codes barres sur les cartes d'électeur. Les valeurs possibles sont : *true* affichage, *false* pas d'affichage. La valeur par défaut est *false*.
 
+* **carte_electorale_texte_cachet_de_la_mairie** : Si un paramètre non vide "carte_electorale_texte_cachet_de_la_mairie existe alors on positionne celui là sinon c'est le paramètre "ville" qui est postionné. L'objectif de cette possible surcharge est de pouvoir aujster le libellé pour gérer les sauts de ligne en plein milieu des mots.
+
 * **option_commission_sans_modification** : Les mouvements de modfication qui n'entraînent pas de changement de bureau n'apparaissent pas dans les listings pour la commission. Les valeurs possibles sont : *true* sans les modifications qui n'entrainent pas de changement de bureau, *false* avec les modifications qui n'entrainent pas de changement de bureau. La valeur par défaut est *true*.
 
 * **parametrage_mouvement_venantautrecommune** : Code du type de mouvement obligeant la saisie d'une commune de provenance. La valeur par défaut est *CC*.
