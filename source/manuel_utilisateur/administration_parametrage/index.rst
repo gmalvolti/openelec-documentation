@@ -30,9 +30,9 @@ Divers paramètres de l’application sont configurables ici : champs de fusion 
 
 * **option_code_voie_auto** : Possibilité de choisir si les codes voie sont automatiques ou non. Les valeurs possibles sont : *false* les codes voies ne sont pas automatiques, *true* les codes voie sont automatiques. La valeur par défaut est *true*.
 
-* **option_code_barre** : Affichage des codes barres sur les cartes d'électeur. Les valeurs possibles sont : *true* affichage, *false* pas d'affichage. La valeur par défaut est *false*.
+* **option_code_barre** : Affichage des codes barres sur la carte électorale. Les valeurs possibles sont : *true* affichage, *false* pas d'affichage. La valeur par défaut est *false*.
 
-* **carte_electorale_texte_cachet_de_la_mairie** : Si un paramètre non vide "carte_electorale_texte_cachet_de_la_mairie existe alors on positionne celui là sinon c'est le paramètre "ville" qui est postionné. L'objectif de cette possible surcharge est de pouvoir aujster le libellé pour gérer les sauts de ligne en plein milieu des mots.
+* **carte_electorale_texte_cachet_de_la_mairie** : Si ce paramètre est défini alors on positionne celui là dans la zone cachet de la mairie de la carte électorale sinon c'est le paramètre **ville** qui est utilisé. L'objectif de cette possible surcharge est de pouvoir aujster le libellé pour gérer les sauts de ligne en plein milieu des mots.
 
 * **option_commission_sans_modification** : Les mouvements de modfication qui n'entraînent pas de changement de bureau n'apparaissent pas dans les listings pour la commission. Les valeurs possibles sont : *true* sans les modifications qui n'entrainent pas de changement de bureau, *false* avec les modifications qui n'entrainent pas de changement de bureau. La valeur par défaut est *true*.
 
