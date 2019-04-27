@@ -1,7 +1,7 @@
 .. openelec documentation master file.
 
 ==========================
-openElec 5.2 documentation
+openElec 5.6 documentation
 ==========================
 
 .. note::
@@ -56,3 +56,4 @@ Contributeurs
 * Jean-Yves Laugier
 * Grégory Malvolti
 * Florent Michon
+* Sofien Timezouaght
