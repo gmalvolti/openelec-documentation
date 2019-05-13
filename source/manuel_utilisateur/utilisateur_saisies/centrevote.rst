@@ -1,35 +1,12 @@
-######################
-Mention Centre de vote
-######################
+#####################################
+Mention "centre de vote à l'étranger"
+#####################################
 
-Préambule
-=========
+Depuis la mise en place du Répertoire Électoral Unique au 1er janvier 2019, cette mention n'existe plus dans openElec.
 
-Les mentions inscrites en centre de vote sont inscrites sur la liste
-d’émargement par le traitement des procurations. La zone procuration
-de la table électeur est mise à jour par le traitement.
+"A compter de 2019, les Français résidant à l’étranger ne pourront plus être inscrits à la fois sur une liste électorale consulaire pour les scrutins nationaux, et sur une liste électorale municipale pour les scrutins locaux. Ceux qui sont actuellement inscrits (2018) sur deux listes devront donc choisir sur laquelle ils se maintiennent en 2019. Ils ne pourront plus voter qu’à un seul endroit pour tous les scrutins qu’ils soient nationaux ou locaux.
 
-Saisie des informations
-=======================
+S’ils souhaitent voter en France, ils devront obligatoirement demander leur radiation de la liste électorale consulaire sur service-public.fr : inscription consulaire/actualiser son dossier en cours de séjour.
 
-Vous devez saisir l’électeur:
+Par défaut, les Français résidant à l’étranger inscrits à la fois sur une liste en France et sur une liste électorale consulaire seront maintenus sur la liste électorale consulaire et radiés de la liste de leur commune en France. Ils voteront donc à l’étranger pour tous les scrutins."
 
-    * soit en tapant l’ID électeur, soit en tapant une partie ou l’intégralité du nom, ou une partie de son nom et une partie de son prénom.
-
-Date de début et de fin de validité
-
-    * Possibilité de saisir à l’aide du calendrier.
-    * Possibilité de saisir : 2506018 => 25/06/2018.
-    * Possibilité de saisir : 25062018 => 25/06/2018.
-
-.. figure:: a_saisie_centre_de_vote.png
-
-    Rubrique Saisie : Centre de Vote
-
-Validation des informations
-===========================
-
-Une fois toutes les informations saisies, vous pouvez valider le
-formulaire pour enregistrer la mention.
-
-Validation : Un électeur est dans un centre de vote pour une même période.

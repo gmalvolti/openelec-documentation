@@ -12,14 +12,7 @@ Présentation
 Introduction
 ============
 
-openElec est un logiciel qui permet la gestion des listes électorales (listes
-politiques). Il permet de traiter et de gérer facilement les listes
-d'émargement (pdf), les cartes d'électeurs (pdf), les procurations, les centres
-de vote, les mairies européennes, les étiquettes pour la propagande (pdf), les
-listes d'électeurs, les listes annuelles des mouvements, les statistiques, les
-envois à l'insee, l'import des inscriptions d'office, les tableaux de fin
-d'année, les tableaux j-5, la gestion du découpage des voies.
-
+openElec permet la gestion complète des listes électorales pour les élections politiques, de l'inscription d'un électeur, jusqu'à l'édition de sa carte électorale, l'édition des listes d'émargement, les échanges avec le Répertoire Électorale Unique (INSEE) et bien plus encore...
 
 ==========
 Historique
@@ -54,25 +47,6 @@ une base de données PostgreSQL. openElec dépend de plusieurs composants PHP :
 
 Cette interface Web permet donc au logiciel d'être facilement utilisé en local
 comme à distance.
-
-
-
-********************************
-Sensibilisation des utilisateurs
-********************************
-
-Ce logiciel, comme la plupart des logiciels openMairie, demande une grande
-rigueur d'utilisation. En effet, cette application étant une solution Web,
-certaines actions sont permises à l'utilisateur alors qu'elles pourraient
-altérer les données de l'application :
-
-* il ne faut en aucun cas cliquer sur l'icône « Précédent » ou « Suivant » du navigateur Web,
-
-* il faut faire toujours très attention à la liste par défaut sur laquelle on travaille pour ne pas faire des modifications sur la mauvaise liste,
-
-* il faut faire très attention à la date de tableau pour que les mouvements soient associés aux bons traitements.
-
-
 
 
 .. _ergonomie:

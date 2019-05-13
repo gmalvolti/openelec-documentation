@@ -23,10 +23,6 @@ En fond vert, les traitement effectués au cours de l'année électorale, en fon
 Editions par bureau
 -------------------
 
-.. note::
-
-   Avant d'éditer les listes d'émargements, il vous faudra appliquer les mentions (procurations, centres de vote, mairie Europe), pour ce faire, rendez-vous au menu "traitement-Election"
-
 Le menu Editions par bureau va vous permettre d'éditer l'ensemble des éditions nécessaires au bon déroulement d'une élection.
 
 .. figure:: a_edition_par_bureau.png

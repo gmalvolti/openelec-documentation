@@ -19,14 +19,6 @@ justificatifs. La commission statue sur chaque demande et l’accepte ou
 la rejette. A la fin de la séance, la feuille de présentation corrigée
 est signée et conservée à titre d’archives.
 
-Pré-requis pour utiliser le module Commissions :
-
-    * l’utilisateur qui effectue le travail de préparation de la commission doit avoir le droit " super utilisateur ".
-
-    * les mouvements (inscriptions, modifications, radiations) doivent avoir été préalablement saisis dans openElec.
-
-    * on doit connaître la date de la dernière commission.
-
 
 Editions préparatoire, de septembre à décembre
 ==============================================
@@ -35,7 +27,7 @@ La préparation de la commission se fait la veille de celle-ci.
 L’édition préparatoire des mouvements pour la commission se fait
 via le menu " Traitement / Commissions ".
 
-Dans le cadre " Edition Des Mouvements A Presenter (rupture Par Bureau) " :
+Dans le cadre " Edition Des Mouvements A Presenter (rupture par liste) " :
 
     * saisir dans la " Date de début " la date suivant la date de fin de la précédente édition.
     * saisir dans la " Date de fin " la date du dernier jour cloturé précédent la commission. Ne jamais saisir une journée en cours : des mouvements ne seraient pas présentés en commission !
@@ -76,18 +68,5 @@ modifiées sont signées par la commission.
 Application des décisions de la commission
 ==========================================
 
-Les mouvements refusés par la commission doivent être supprimés
-d’openElec. Pour chaque mouvement rejeté, il faut effectuer la recherche
-du mouvement dans son tableau, éventuellement éditer le courrier de refus du mouvement
-puis le supprimer manuellement.
-
-Vous pouvez accédez respectivement aux tableaux des mouvements
-d'inscription, de modification et de radiation directement
-depuis l'écran du module de commission.
-
-.. figure:: a_module_commission_boutons.png
-
-    Raccourci d'accès aux listings des mouvements
-
-Depuis la fiche du mouvement concerné, il est possible de supprimer ce dernier.
+Les décisions prises par la commission doivent donner lieu à de nouvelles inscriptions ou de nouvelles radiations avec le motif adéquat.
 
