@@ -38,6 +38,14 @@ Le menu Editions Générales va vous permettre d'éditer la liste électorale, l
      Editions générales
 
 
+Cartes Électorales
+------------------
+
+.. figure:: a_module_carte_electorale.png
+
+      Module "Cartes Électorales"
+
+
 Editions Statistiques
 ---------------------
 
