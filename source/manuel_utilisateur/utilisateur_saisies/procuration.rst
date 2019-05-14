@@ -38,8 +38,8 @@ Le formulaire permet de saisir les informations suivantes sur la procuration :
 
 * **Date et heure d'accord**
 
-    * Date : *date d'accord de la procuration au format JJ/MM/AAAA*
-    * Heure : *heure d'accord de la procuration au format HH:MM:SS*
+    * Date : *date d'établissement de la procuration au format JJ/MM/AAAA*
+    * Heure : *heure d'établissement de la procuration au format HH:MM:SS*
 
 
 Validation des informations
