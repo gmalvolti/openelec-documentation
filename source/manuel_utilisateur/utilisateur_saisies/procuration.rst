@@ -5,9 +5,7 @@ Procuration
 Préambule
 =========
 
-Cet écran sert à gérer les procurations. Les procurations sont inscrites sur
-la liste d’émargement par le traitement des procurations. La zone
-procuration de la table électeur est mise à jour par le traitement.
+Cet écran sert à gérer les procurations. Les procurations sont inscrites sur la liste d’émargement.
 
 Saisie des informations
 =======================
@@ -16,9 +14,30 @@ Saisie des informations
 
     Saisie d'une procuration
 
-Une procuration peut être refusée, un motif de refus pourra être saisie,
-elle n'apparaîtra pas dans les éditions pdf de la liste électorale,
-de la liste des procuration et du registre des procuration.
+Le formulaire permet de saisir les informations suivantes sur la procuration :
+
+* **Électeurs (mandant et mandataire)**
+
+    * Mandant
+    * Mandataire
+
+* **Validité de la procuration**
+
+    * Du
+    * Au
+
+* **Caractéristiques**
+
+    * Origine (ligne 1) : *le nom et la qualité de l'autorité qui a dresse l'acte de procuration (par exemple : la gendarmerie qui a enregistré la procuration)
+    * Origine (ligne 2) : *suite du nom et de la qualité de l'autorité qui a dresse l'acte de procuration (par exemple : le gendarme qui a enregistré la procuration)*
+    * Refus : *une procuration peut être refusée (une procuration refusée apparaît dans le registre mais n'apparaît pas dans le listing des procurations)*
+    * Motif de refus : *lorsque la procuration est refusée un motif de refus doit être saisi (il appraît sur le registre)*
+
+* **Date et heure d'accord**
+
+    * Date
+    * Heure
+
 
 Validation des informations
 ===========================
@@ -26,7 +45,7 @@ Validation des informations
 Une fois toutes les informations saisies, vous pouvez valider le
 formulaire pour enregistrer la procuration.
 
-Le refus d'une procuration entraine l'affichage sur le tableau d'un lie vers
+Le refus d'une procuration entraine l'affichage sur le tableau d'un lien vers
 l'édition d'un courrier de refus adressé
 
 Message de Vérification : Un mandant ne donne qu’une procuration pour une
