@@ -18,8 +18,8 @@ Le formulaire permet de saisir les informations suivantes sur la procuration :
 
 * **Électeurs (mandant et mandataire)**
 
-    * Mandant
-    * Mandataire
+    * Mandant : *demandeur de la procuration*
+    * Mandataire : *personne désignée pour voter à la place du mandant*
 
 * **Validité de la procuration**
 
