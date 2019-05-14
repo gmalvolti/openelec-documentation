@@ -28,7 +28,7 @@ Le formulaire permet de saisir les informations suivantes sur la procuration :
 
 * **Caractéristiques**
 
-    * Origine (ligne 1) : *le nom et la qualité de l'autorité qui a dresse l'acte de procuration (par exemple : la gendarmerie qui a enregistré la procuration)
+    * Origine (ligne 1) : *le nom et la qualité de l'autorité qui a dresse l'acte de procuration (par exemple : la gendarmerie qui a enregistré la procuration)*
     * Origine (ligne 2) : *suite du nom et de la qualité de l'autorité qui a dresse l'acte de procuration (par exemple : le gendarme qui a enregistré la procuration)*
     * Refus : *une procuration peut être refusée (une procuration refusée apparaît dans le registre mais n'apparaît pas dans le listing des procurations)*
     * Motif de refus : *lorsque la procuration est refusée un motif de refus doit être saisi (il appraît sur le registre)*
