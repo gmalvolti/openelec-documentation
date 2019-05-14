@@ -23,8 +23,7 @@ Le formulaire permet de saisir les informations suivantes sur la procuration :
 
 * **Validité de la procuration**
 
-    * Du
-    * Au
+    * Du / Au : *les dates de validité de la procuration au format JJ/MM/YYYY (par exemple : pour une procuration valide uniquement le 26/05/2019, il faut saisir du 26/05/2019 au 26/05/2019)*
 
 * **Caractéristiques**
 
