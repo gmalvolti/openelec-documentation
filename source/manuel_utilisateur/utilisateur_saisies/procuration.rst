@@ -12,7 +12,7 @@ Saisie des informations
 
 .. figure:: a_saisie_procuration.png
 
-    Saisie d'une procuration
+    Formulaire d'ajout d'une procuration
 
 Le formulaire permet de saisir les informations suivantes sur la procuration :
 
