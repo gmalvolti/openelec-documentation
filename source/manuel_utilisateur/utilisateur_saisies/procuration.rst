@@ -1,3 +1,5 @@
+.. _procuration_saisie:
+
 ###########
 Procuration
 ###########
@@ -5,7 +7,8 @@ Procuration
 Préambule
 =========
 
-Cet écran sert à gérer les procurations. Les procurations sont inscrites sur la liste d’émargement.
+Cet écran est accessible via le menu (:menuselection:`Saisie Électeur --> Procuration`). Tous les détails sur les procurations sont disponibles dans le chapitre :ref:`module_procuration`.
+
 
 Saisie des informations
 =======================
