@@ -114,7 +114,7 @@ Les éditions basées sur le livrable J-20
 
 .. warning::
 
-   Attention : l'édition des listes électorales globales se base sur le livrable J-20 transmis par le REU.
+   L'édition des listes électorales globales se base sur le livrable J-20 transmis par le REU.
 
 L'accès aux éditions des listes électorales globales est possible seulement après avoir reçu du REU le livrable J-20 (arrêt des listes). Il faut simplement cliquer sur le bouton "Générer" de la liste souhaitée pour que le document soit téléchargeable depuis le lien télécharger.
 
@@ -127,7 +127,7 @@ Les éditions basées sur le livrable EMARGEMENT
 
 .. warning::
 
-   Attention : les éditions disponibles dans la partie Liste d'émargement se basent sur le livrable émargement transmis par le REU.
+   Les éditions disponibles dans la partie Liste d'émargement se basent sur le livrable émargement transmis par le REU.
 
 Lorsque la demande de liste d'émargement a été faite et a été traitée par le REU, les éditions sont disponibles en dessous du carré "Liste d'émargement". Il faut simplement cliquer sur le bouton "Télécharger" du document souhaité pour récupérer celui-ci.
 
