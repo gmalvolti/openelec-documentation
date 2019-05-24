@@ -108,31 +108,49 @@ Lorsque la demande de livrable à été traitée par le REU, un message avec un 
 Les éditions
 ############
 
-Après avoir fait l'arrêt des liste l'accès aux éditions des listes électorale sont disponibles. Il faut simplement cliquer sur le bouton "Générer" de la liste souhaitée pour récupérer le document.
+****************************************
+Les éditions basées sur le livrable J-20
+****************************************
+
+.. warning::
+
+   Attention : l'édition des listes électorales globales se base sur le livrable J-20 transmis par le REU.
+
+L'accès aux éditions des listes électorales globales est possible seulement après avoir reçu du REU le livrable J-20 (arrêt des listes). Il faut simplement cliquer sur le bouton "Générer" de la liste souhaitée pour que le document soit téléchargeable depuis le lien télécharger.
 
 .. image:: a_module_election_scrutin_livrable_j20_edition.png
 
+
+**********************************************
+Les éditions basées sur le livrable EMARGEMENT
+**********************************************
+
 .. warning::
 
-   Attention : l'édition des listes électorales lors de l'arrêt des listes se base uniquement sur le livrable J-20 transmis par le REU.
+   Attention : les éditions disponibles dans la partie Liste d'émargement se basent sur le livrable émargement transmis par le REU.
 
-Lorsque la demande de liste d'émargement a été faite et a été traitée par le REU, les éditions sont disponibles en dessous du carré "Liste d'émargement"
-Il y a trois éditions disponibles :
+Lorsque la demande de liste d'émargement a été faite et a été traitée par le REU, les éditions sont disponibles en dessous du carré "Liste d'émargement". Il faut simplement cliquer sur le bouton "Télécharger" du document souhaité pour récupérer celui-ci.
 
-Le récapitulatif des mentions présents pour cette élection : 
+Récapitulatif des mentions par liste
+************************************
+
+Le récapitulatif des mentions par liste à la date de production du livrable EMARGEMENT par le REU est divisé en quatre parties :
+
+- le nombre d'inscrits par bureau de vote avec le nombre de mentions
+- la liste des mentions
+- la liste des procurations actives (procurations acceptées dont la date de validité correspond à la date de l'élection)
+- la liste des procurations non actives (procurations acceptées dont la date de validité ne correspond pas à la date de l'élection)
 
 .. image:: a_module_election_scrutin_livrable_edition_recap_mention.png
 
-La liste électorale éditiée par liste et par bureaux de vote :
+Liste électorale par liste et par bureau de vote
+************************************************
 
 .. image:: a_module_election_scrutin_livrable_edition_liste_elec.png
 
-La liste d'émargement éditiée par liste et par bureau :
+Liste d'émargement par liste et par bureau de vote
+**************************************************
 
 .. image:: a_module_election_scrutin_livrable_edition_emarge.png
 
-Il faut simplement cliquer sur le bouton "Télécharger" du document souhaité pour récupérer celui-ci.
 
-.. warning::
-
-   Attention : les éditions disponibles dans la partie Liste d'émargement se basent uniquement sur le livrable émargement transmis par le REU.
