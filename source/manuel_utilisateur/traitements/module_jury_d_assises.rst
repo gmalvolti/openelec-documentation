@@ -27,10 +27,13 @@ Paramétrer le nombre de jurés
 Pour cela, vous devez tout d'abord saisir le nombre de juré voulu pour chaque
 canton. Par la suite ce nombre ne vous sera plus demandé.
 
-Pour inscrire ce nombre de juré, cliquez sur l'onglet " Parametrage ", puis sur modifier (représenté par l'icone
-de crayon) pour accéder au formulaire de modification.
-Insérez le nombre de juré choisi et cliquez sur le bouton " Modifier "
-pour enregistrer les changements.
+Pour inscrire ce nombre de juré :
+
+- cliquez sur l'onglet "Paramétrage",
+- cliquez sur sur la flèche pour accéder à la fiche du nombre de juré par canton,
+- cliquez sur sur l'action modifier pour accéder au formulaire de modification,
+- insérez le nombre de juré choisi,
+- cliquez sur le bouton "Modifier" pour enregistrer les changements.
 
 .. figure:: a_module_jury_d_assises_parametrage_collectivite.png
 
