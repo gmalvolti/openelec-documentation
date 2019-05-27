@@ -13,15 +13,10 @@ Les scrutins
 ############
 
 Les scrutins sont disponibles dans le menu traitement - Election.
-Pour récupérer les scrutins en cours, il faut synchroniser les scrutins en cliquant sur le bouton "Synchroniser".
-
-.. image:: a_module_election_scrutin_synchronisation.png
-
-Après avoir synchronisé les scrutins, on peut accéder à ceux-ci dans le listing.
 
 .. image:: a_module_election_scrutin_listing.png
 
-Attention : pour synchroniser les scrutins il faut impérativement avoir fait la synchronisation des listes électorales et la refonte.
+Attention : pour avoir accès aux scrutins il faut impérativement avoir fait la synchronisation des listes électorales et la refonte.
 
 Les demandes de livrables auprès du Répertoire Électoral Unique
 ###############################################################
@@ -99,6 +94,10 @@ Il est possible de récupérer la liste d'émargement dans l'élection souhaité
 Pour demander une liste d'émargement, il faut cliquer sur l'action "Demander le livrable 'liste d'émargement'".
 
 .. image:: a_module_election_scrutin_action_emarge.png
+
+Le carré "Liste d'émargement" affiche un message indiquant que la demande de livrable a été envoyé au REU.
+
+.. image:: a_module_election_scrutin_livrable_emarge_attente.png
 
 Lorsque la demande de livrable à été traitée par le REU, un message avec un picto vert s'affiche dans le carré "Liste d'émargement" nous indiquant que les documents sont diponible.
 
