@@ -154,3 +154,34 @@ supprimer comme tous les paramétrages précédents.
 .. figure:: a_decoupage_voie_affection_bureau.png
 
     Rubrique Decoupage : Découpage
+
+
+Paramétrage de l'envoi de notification par courriel aux utilisateurs
+=====================================================================
+
+Ce paramétrage permet l'envoi de notification par courriel aux utilisateurs 
+choisis en fonction de leurs profils. Il est accéssible dans la partie métier
+du menu 'Administration & Paramétrage'.
+
+.. figure:: a_notification_courriel_mono.png
+
+Pour sélectionner les profils il faut cliquer sur le lien "Définir/Modifier" ce 
+qui ouvre un overlay avec la liste des profils. Il est possible de sélectionner 
+plusieurs profils en restant apppuyé sur le bouton [Ctrl] du clavier et en cliquant 
+sur les profils que l'on veut choisir. Il faut ensuite cliquer sur le bouton "Valider" 
+pour enregistrer les profils.
+
+Un aperçu du courriel qui va être envoyé est affiché en dessous de la liste des 
+profils sélectionnés. Il ne s'affiche que lorsque il y a des tâches en cours à effectuer.
+
+Le bouton "Tester l'envoi" permet d'envoyer un courriel de test à condition que des profils 
+soient sélectionnés et que des tâches en cours doivent être effectuées.
+
+Lorsque l'application est en mode MULTI, il n'y a pas d'aperçu de message, l'utilisateur peut 
+choisir les profils qui seront sélectionnés si les commune n'ont pas de profils sélectionnés 
+dans leurs paramétrage spécifique et lancer le traitement d'envoi de notification par courriel sur 
+toute les communes gérées.
+
+.. figure:: a_notification_courriel_multi.png
+
+
